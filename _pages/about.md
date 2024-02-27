@@ -33,7 +33,20 @@ I run the WeChat pulic account **AI Ethics**. The continuously emerging risk iss
 
 
 # Research 
-## Pulications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAI</div><img src='images/Overview_of_AI_Ethics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844014)
+
+**Changwu Huang**, Zeqi Zhang, Bifei Mao, Xin Yao
+
+[**Project**](https://scholar.google.fr/citations?view_op=view_citation&hl=zh-CN&user=QRnmYfkAAAAJ&citation_for_view=QRnmYfkAAAAJ:K3LRdlH-MEoC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:K3LRdlH-MEoC'></span></strong>
+**Impact Statement:** AI ethics is an important emerging topic among academia, industry, government, society, and individuals. In the past decades, many efforts have been made to study the ethical issues in AI. This article offers a comprehensive overview of the AI ethics field, including a summary and analysis of AI ethical issues, ethical guidelines and principles, approaches to address AI ethical issues, and methods to evaluate the ethics of AI technologies. Additionally, research challenges and future perspectives are discussed. This article will help researchers to gain a birds eye view of AI ethics, and thus facilitate their further investigation and research of AI.
+</div>
+</div>
+
+
+## Pulication List
 -	Z. Wang, C. Huang, Y. Li, and X. Yao∗, “[Multi-objective Feature Attribution Explanation For Explainable Machine Learning,](https://dl.acm.org/doi/10.1145/3617380)” ACM Transactions on Evolutionary Learning and Optimization, vol. 4, no. 1, pp. 1–32, , Feb. 2024.
 -	C. Huang, Z. Zhang, B. Mao, and X. Yao∗, “[An Overview of Artificial Intelligence Ethics,](https://ieeexplore.ieee.org/document/9844014)” IEEE Transactions on Artificial Intelligence, vol. 4, no. 4, pp. 799-819, Aug. 2023. (Most Popular Article in IEEE TAI, over 20,816 views on IEEE Xplore)
 -	Z. Yang, Z. Wang, C. Huang∗, and X. Yao, “[An Explainable Feature Selection Approach for Fair Machine Learning,](https://link.springer.com/chapter/10.1007/978-3-031-44198-1_7)” 32nd International Conference on Artificial Neural Networks, Crete, Greece, 2023, pp. 75-86. 
