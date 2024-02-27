@@ -23,6 +23,8 @@ I obtained my Bachelor degree from Southwest Jiaotong University in 2010, Master
 
 My research interest includes Artificial Intelligence (AI) Ethics, Trustworthy Machine Learning (ML), and Evolutionary Computation. I have published more than 30 research papers with total <a href='https://scholar.google.fr/citations?user=QRnmYfkAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
 
+I run a WeChat public account **AI Ethics**![QR Code](./images/AI_Ethics.png)
+
 # News
 
 
