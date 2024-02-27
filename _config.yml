@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Changwu HUANG | 黄长武"
+title                    : "Changwu HUANG"
 description              : "Research Associate Professor at Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech)."
 repository               : "ChangwuHuang/ChangwuHuang.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Changwu Huang"
+  name             : "Changwu HUANG | 黄长武"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D."
+  bio              : ""
   location         : "Shenzhen, China"
   employer         : "SUSTech"
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3685-2822"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
