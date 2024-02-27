@@ -90,3 +90,13 @@ My research interest includes Artificial Intelligence (AI) Ethics, Trustworthy M
 - July 2023, I was invited to give a lecture on “Ethics and Safety in the AI Era” (AI 时代的伦理与安全) at the training program for principals on AI education leadership enhancement in Shenzhen primary and secondary schools (“深圳市中小学校长人工智能教育领导力提升研训”培训班).
 - July 2023, I was invited to deliver a lecture on “AI Ethics and Safety” (AI 伦理与安全) at the training program for outstanding teachers in Shenzhen primary and secondary schools to improve their teaching capabilities (“深圳市中小学骨干教师教学能力提升研训”培训班).
 - October 2022, I was invited to present a keynote talk titled “An Overview of Artificial Intelligence Ethics” (人工智能伦理研究现状) at the 2022 AI Ethics Governance Forum (2022 年人工智能伦理治理论坛) organized by the Shenzhen Association for Artificial Intelligence (SAAI).
+
+
+# 💻 Professional Service
+-	Core member of the Artificial Intelligence Education Research Center, Southern University of Science and Technology, since October 2023.
+-	Session Chair for the Neural Networks and Intelligent Algorithms session at the International Conference on Neuromorphic Computing (ICNC2023), December 2023.
+-	Secretary Member of the AI Ethics Governance Committee of Shenzhen Association for Artificial Intelligence (SAAI) (深圳市人工智能学会AI伦理治理专委会秘书委员), since November 2022.
+-	Member of the Institute of Electrical and Electronics Engineers (IEEE), since October 2019.
+-	Member of Chinese Association for Artificial Intelligence (CAAI), since September 2022.
+-	Member of China Computer Federation (CCF), since October 2021.
+-	Reviewer for international journals such as IEEE TEVC, IEEE TAI, Knowledge-Based Systems, Memetic Computing, etc.
