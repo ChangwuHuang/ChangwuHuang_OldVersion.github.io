@@ -27,8 +27,8 @@ My research interest includes Artificial Intelligence (AI) Ethics, Trustworthy M
 # News
 
 
-# Publications 
-
+# Research 
+## Pulications
 -	Z. Wang, C. Huang, Y. Li, and X. Yao∗, “[Multi-objective Feature Attribution Explanation For Explainable Machine Learning,](https://dl.acm.org/doi/10.1145/3617380)” ACM Transactions on Evolutionary Learning and Optimization, vol. 4, no. 1, pp. 1–32, , Feb. 2024.
 -	C. Huang, Z. Zhang, B. Mao, and X. Yao∗, “[An Overview of Artificial Intelligence Ethics,](https://ieeexplore.ieee.org/document/9844014)” IEEE Transactions on Artificial Intelligence, vol. 4, no. 4, pp. 799-819, Aug. 2023. (Most Popular Article in IEEE TAI, over 20,816 views on IEEE Xplore)
 -	Z. Yang, Z. Wang, C. Huang∗, and X. Yao, “[An Explainable Feature Selection Approach for Fair Machine Learning,](https://link.springer.com/chapter/10.1007/978-3-031-44198-1_7)” 32nd International Conference on Artificial Neural Networks, Crete, Greece, 2023, pp. 75-86. 
@@ -59,12 +59,12 @@ My research interest includes Artificial Intelligence (AI) Ethics, Trustworthy M
 -	J. L. Li, N. Xiao, C. W. Huang, and N. J. Fu, “[Thermal Elasto-Plastic FEM Analysis of the New Heavy-Haul Freight Car Wheel Plate,](https://www.scientific.net/AMM.251.304)” Applied Mechanics and Materials, vol. 251, pp. 304-309, Dec. 2012.
 -	N. J. Fu, J. L. Xie, C. W. Huang, and Y. Teng, “[Research on Fatigue Properties of Grade B Steel Casted by the Resin Sand Process,](https://www.scientific.net/AMM.189.218)” Applied Mechanics and Materials, vol. 189, pp. 218-224, Jul. 2012. 
 
-# Patents
+## Patents
 -	Ziming Wang, Changwu Huang, and Xin Yao, “A Data Set Shift Identification Method Based on Feature Attribution Explanation Techniques” (一种基于特征归因解释技术的数据集偏移识别方法), CN202310410718.7, 2023.
 -	Chao Pan, Changwu Huang, Bo Yuan, Xin Yao, “Method, Apparatus, Device, and Storage Medium for Automatic Acquisition of Case Information” (案件信息的自动获取方法、装置、设备和存储介质), CN202010590436.6, 2020.
 
 
-# Educations
+# Education
 - 09/2013 - 02/2018, Ph.D. in Mechanics, [INSA Rouen Normandie](https://www.insa-rouen.fr/), France.
   - Dissertation Title: Kriging-Assisted Evolution Strategy for Optimization and Application in Material Parameters Identification.
   - Laboratory: [Laboratoire de Mécanique de Normandie (LMN)](https://www.insa-rouen.fr/recherche/laboratoires/lmn)
@@ -76,24 +76,33 @@ My research interest includes Artificial Intelligence (AI) Ethics, Trustworthy M
     - Recommended for admission to postgraduate study, exempted from the Admission Examination.
 
 
+# Work Experience
+- 10/2023 - Present, Research Associate Professor (Master Supervisor), Department of CSE, SUSTech, Shenzhen, China.
+  - OPtimization And Learning (OPAL) Laboratory, led by Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
+- 10/2020 - 09/2023, Research Assistant Professor (Master Supervisor), Department of CSE, SUSTech, Shenzhen, China.
+    - OPtimization And Learning (OPAL) Laboratory, led by Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
+- 03/2018 - 09/2020, Postdoctoral Researcher, Department of CSE, SUSTech, Shenzhen, China.
+    - Cooperation Supervisor: Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
+
+
 # Honors and Awards
 - Our paper “An Overview of Artificial Intelligence Ethics” was selected as the Excellent Science & Technology Academic Paper by the Shenzhen Association for Science and Technology (深圳市第二届优秀科技学术论文奖), 2022. 
 - Scholarship from China Scholarship Council (CSC) to pursue Ph.D. study, 2013-2017.
 - First-Class Graduate Student Fellowship of BJTU, 2011.
 - Outstanding University Graduate of Sichuan Province, 2010.
 - Outstanding Undergraduate Graduate Design & Thesis of SWJTU, 2010.
-- National Scholarship, 2009 & 2006.
+- National Scholarship, 2006 and 2009.
 
 
 # Invited Talks
-- December 2023, I was invited to participate in the New Generation of Artificial Intelligence and Education expert consultation seminar (“新一代人工智能与教育”专家咨询研讨会), and delivered a keynote talk on the topic of “The Talent View of AI Era: Combining Virtue with Abilities”(AI 时代德才兼备的人才观).
-- July 2023, I was invited to give a lecture on “Ethics and Safety in the AI Era” (AI 时代的伦理与安全) at the training program for principals on AI education leadership enhancement in Shenzhen primary and secondary schools (“深圳市中小学校长人工智能教育领导力提升研训”培训班).
-- July 2023, I was invited to deliver a lecture on “AI Ethics and Safety” (AI 伦理与安全) at the training program for outstanding teachers in Shenzhen primary and secondary schools to improve their teaching capabilities (“深圳市中小学骨干教师教学能力提升研训”培训班).
-- October 2022, I was invited to present a keynote talk titled “An Overview of Artificial Intelligence Ethics” (人工智能伦理研究现状) at the 2022 AI Ethics Governance Forum (2022 年人工智能伦理治理论坛) organized by the Shenzhen Association for Artificial Intelligence (SAAI).
+- December 2023, I was invited to participate in the New Generation of Artificial Intelligence and Education expert consultation seminar ([“新一代人工智能与教育”专家咨询研讨会](https://efuture.sustech.edu.cn/news/detail/753.html?lang=zh-cn)), and delivered a keynote talk on the topic of “The Talent View of AI Era: Combining Virtue with Abilities”(AI 时代德才兼备的人才观).
+- July 2023, I was invited to give a lecture on “Ethics and Safety in the AI Era” (AI 时代的伦理与安全) at the training program for principals on AI education leadership enhancement in Shenzhen primary and secondary schools ([“深圳市中小学校长人工智能教育领导力提升研训”培训班](https://efuture.sustech.edu.cn/news/detail/741.html?lang=zh-cn)).
+- July 2023, I was invited to deliver a lecture on “AI Ethics and Safety” (AI 伦理与安全) at the training program for outstanding teachers in Shenzhen primary and secondary schools to improve their teaching capabilities ([“深圳市中小学骨干教师教学能力提升研训”培训班](https://efuture.sustech.edu.cn/news/detail/747.html?lang=zh-cn)).
+- October 2022, I was invited to present a keynote talk titled “An Overview of Artificial Intelligence Ethics” (人工智能伦理研究现状) at the 2022 AI Ethics Governance Forum ([2022 年人工智能伦理治理论坛](https://saai.net.cn/2464.html)) organized by the Shenzhen Association for Artificial Intelligence (SAAI).
 
 
 # Professional Service
--	Core member of the Artificial Intelligence Education Research Center, Southern University of Science and Technology, since October 2023.
+-	Core member of the Artificial Intelligence Education Research Center, Southern University of Science and Technology ([南方科技大学人工智能教育研究中心](https://efuture.sustech.edu.cn/news/detail/744.html?lang=zh-cn)), since October 2023.
 -	Session Chair for the Neural Networks and Intelligent Algorithms session at the International Conference on Neuromorphic Computing (ICNC2023), December 2023.
 -	Secretary Member of the AI Ethics Governance Committee of Shenzhen Association for Artificial Intelligence (SAAI) (深圳市人工智能学会AI伦理治理专委会秘书委员), since November 2022.
 -	Member of the Institute of Electrical and Electronics Engineers (IEEE), since October 2019.
