@@ -32,9 +32,6 @@ I run the WeChat pulic account **AI Ethics**. The continuously emerging risk iss
 </div>
 
 
-# News
-
-
 # Research 
 ## Pulications
 -	Z. Wang, C. Huang, Y. Li, and X. Yao∗, “[Multi-objective Feature Attribution Explanation For Explainable Machine Learning,](https://dl.acm.org/doi/10.1145/3617380)” ACM Transactions on Evolutionary Learning and Optimization, vol. 4, no. 1, pp. 1–32, , Feb. 2024.
@@ -111,8 +108,8 @@ I run the WeChat pulic account **AI Ethics**. The continuously emerging risk iss
 
 # Professional Service
 -	Core member of the Artificial Intelligence Education Research Center, Southern University of Science and Technology ([南方科技大学人工智能教育研究中心](https://efuture.sustech.edu.cn/news/detail/744.html?lang=zh-cn)), since October 2023.
--	Session Chair for the Neural Networks and Intelligent Algorithms session at the International Conference on Neuromorphic Computing (ICNC2023), December 2023.
--	Secretary Member of the AI Ethics Governance Committee of Shenzhen Association for Artificial Intelligence (SAAI) (深圳市人工智能学会AI伦理治理专委会秘书委员), since November 2022.
+-	Session Chair for the Neural Networks and Intelligent Algorithms session at the [International Conference on Neuromorphic Computing (ICNC2023)](http://icnc2023.org/), December 2023.
+-	Secretary Member of the AI Ethics Governance Committee of [Shenzhen Association for Artificial Intelligence (SAAI)](https://saai.net.cn/) (深圳市人工智能学会AI伦理治理专委会秘书委员), since November 2022.
 -	Member of the Institute of Electrical and Electronics Engineers (IEEE), since October 2019.
 -	Member of Chinese Association for Artificial Intelligence (CAAI), since September 2022.
 -	Member of China Computer Federation (CCF), since October 2021.
