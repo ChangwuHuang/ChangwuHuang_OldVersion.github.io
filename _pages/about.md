@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Associate Professor at the [Department of Computer Science and Engineering (CSE)](https://cse.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), Shenzhen, China.
+I am currently a Research Associate Professor in the [Department of Computer Science and Engineering (CSE)](https://cse.sustech.edu.cn/) at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), located in Shenzhen, China.
 
-I obtained my Bachelor degree from Southwest Jiaotong University in 2010, Master degree from Beijing Jiaotong University in 2013, and Ph.D. degree from Institut National des Sciences Appliquées de Rouen Normandie (INSA Rouen Normandie), France, in 2018. From March 2018 to September 2020, I was a Post-Doctor in Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)'s group at the CSE of SUSTech. Then, from October 2020 to September 2023, I served as a Research Assistant Professor at the same group in SUSTech.
+I obtained my Bachelor’s degree from Southwest Jiaotong University in 2010, Master’s degree from Beijing Jiaotong University in 2013, and Ph.D. degree from Institut National des Sciences Appliquées de Rouen Normandie (INSA Rouen Normandie), France, in 2018. From March 2018 to September 2020, I was a Post-Doctor in Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)’s group at the CSE of SUSTech. Subsequently, from October 2020 to September 2023, I served as a Research Assistant Professor within the same group at SUSTech.
 
 My research interests mainly include Artificial Intelligence (AI) Ethics, Trustworthy Machine Learning (ML), and Evolutionary Computation. I have published more than 30 research papers with total <a href='https://scholar.google.fr/citations?user=QRnmYfkAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
+
+Through my educational pursuits and professional experiences, I have cultivated a robust interdisciplinary research background. During my doctoral studies, I specialized in applying AI techniques to address engineering problems in mechanical engineering, particularly in reliability-based optimization and fatigue damage analysis. Transitioning into my postdoctoral role from March 2018 to September 2020, I concentrated on the automatic algorithm configuration for AI algorithms, specifically evolutionary algorithms. Since late 2020, my research has shifted towards AI ethics and trustworthy AI, areas that represent significant global research trends. Presently, my active research centers on AI Ethics and Trustworthy ML, with a particular emphasis on key ethical considerations such as explainability, fairness, safety, and privacy.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AI_Ethics.png' alt="sym" width="100%"></div></div>
