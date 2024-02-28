@@ -33,7 +33,7 @@ I run the WeChat public account **AI Ethics**. The continuously emerging risk is
 
 
 # Research 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Overview_of_AI_Ethics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/overview_AI_ethics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844014)
