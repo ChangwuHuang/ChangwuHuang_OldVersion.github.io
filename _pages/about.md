@@ -24,10 +24,10 @@ I obtained my Bachelor degree from Southwest Jiaotong University in 2010, Master
 My research interests mainly include Artificial Intelligence (AI) Ethics, Trustworthy Machine Learning (ML), and Evolutionary Computation. I have published more than 30 research papers with total <a href='https://scholar.google.fr/citations?user=QRnmYfkAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AI_Ethics.png' alt="sym" width="35%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AI_Ethics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-I run the WeChat public account **AI Ethics**. The continuously emerging risk issues in the development and application of Artificial Intelligence (AI) have drawn significant global attention. Emphasizing AI ethics, strengthening AI governance, and developing trustworthy AI have become a global consensus. This public account is dedicated to sharing knowledge and updates related to AI ethics, AI governance, and trustworthy AI.  
+I manage the WeChat public account “**AI Ethics**”. The ongoing emergence of risk issues in the development and application of Artificial Intelligence (AI) has captured substantial global attention. Prioritizing AI ethics, reinforcing AI governance, and fostering trustworthy AI have evolved into a worldwide consensus. This platform is committed to disseminating information and updates concerning AI ethics, AI governance, and trustworthy AI.  
 </div>
 </div>
 
