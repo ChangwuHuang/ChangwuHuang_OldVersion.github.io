@@ -21,7 +21,7 @@ I am currently a Research Associate Professor at the [Department of Computer Sci
 
 I obtained my Bachelor degree from Southwest Jiaotong University in 2010, Master degree from Beijing Jiaotong University in 2013, and Ph.D. degree from Institut National des Sciences Appliquées de Rouen Normandie (INSA Rouen Normandie), France, in 2018. From March 2018 to September 2020, I was a Post-Doctor in Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)'s group at the CSE of SUSTech. Then, from October 2020 to September 2023, I served as a Research Assistant Professor at the same group in SUSTech.
 
-My research interest includes Artificial Intelligence (AI) Ethics, Trustworthy Machine Learning (ML), and Evolutionary Computation. I have published more than 30 research papers with total <a href='https://scholar.google.fr/citations?user=QRnmYfkAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
+My research interests mainly include Artificial Intelligence (AI) Ethics, Trustworthy Machine Learning (ML), and Evolutionary Computation. I have published more than 30 research papers with total <a href='https://scholar.google.fr/citations?user=QRnmYfkAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AI_Ethics.png' alt="sym" width="35%"></div></div>
