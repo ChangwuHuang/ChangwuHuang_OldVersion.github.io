@@ -33,16 +33,30 @@ I run the WeChat public account **AI Ethics**. The continuously emerging risk is
 
 
 # Research 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/overview_AI_ethics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Overview_of_AI_Ethics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844014)
+[An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844014)([Most popular article in IEEE TAI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688))
 
 **Changwu Huang**, Zeqi Zhang, Bifei Mao, Xin Yao
 
 [**Project**](https://scholar.google.fr/citations?view_op=view_citation&hl=zh-CN&user=QRnmYfkAAAAJ&citation_for_view=QRnmYfkAAAAJ:K3LRdlH-MEoC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:K3LRdlH-MEoC'></span></strong>
 
-**Impact Statement:** AI ethics is an important emerging topic among academia, industry, government, society, and individuals. In the past decades, many efforts have been made to study the ethical issues in AI. This article offers a comprehensive overview of the AI ethics field, including a summary and analysis of AI ethical issues, ethical guidelines and principles, approaches to address AI ethical issues, and methods to evaluate the ethics of AI technologies. Additionally, research challenges and future perspectives are discussed. This article will help researchers to gain a birds eye view of AI ethics, and thus facilitate their further investigation and research of AI.
+**Impact Statement:** AI ethics is an important emerging topic among academia, industry, government, society, and individuals. In the past decades, many efforts have been made to study the ethical issues in AI. This article offers a comprehensive overview of the AI ethics field, including a summary and analysis of AI ethical issues, ethical guidelines and principles, approaches to address AI ethical issues, and methods to evaluate the ethics of AI technologies. Additionally, research challenges and future perspectives are discussed. This article will help researchers to gain a birds eye view of AI ethics, and thus facilitate their further investigation and research.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MSSP_ResNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Estimation of probability distribution of long-term fatigue damage on wind turbine tower using residual neural network](https://www.sciencedirect.com/science/article/pii/S0888327023000080)
+
+Hao Bai, Lujie Shi, Younes Aoues, **Changwu Huang***, Didier Lemosse
+
+[**Project**](https://scholar.google.fr/citations?view_op=view_citation&hl=zh-CN&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:vRqMK49ujn8C) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:vRqMK49ujn8C'></span></strong>
+
+**Impact Statement:** Fatigue is one of the most significant failure modes in structural and mechanical design. However, fatigue analysis usually suffers from two main challenges: 1) fatigue failure is hard to prediction, and 2) numerical fatigue damage estimation approaches are time-consuming. To overcome these drawbacks, this work firstly proposes a probabilistic fatigue analysis framework to estimate the fatigue damage of wind turbine tower based on numerical simulations. Then, to reduce the computational cost of numerical approach, a residual neural network (ResNet)-assisted fatigue estimation approach is designed for the assessment of long-term fatigue loads under the proposed probabilistic fatigue analysis framework. The proposed probabilistic fatigue analysis framework estimates the cumulative fatigue damage in a probabilistic pattern. The designed machine learning model-assisted approach learns a model to approximate the relationship between the load (i.e., wind speed in our study case) and the fatigue damage. Then, this surrogate model can be used to predict fatigue damage under different loads so that a large number of simulations can be replaced by model prediction. Our proposed method is validated by numerical studies with a state-of-the-art wind turbine and has been applied in a wind turbine design with real-world wind loads. 
 </div>
 </div>
 
