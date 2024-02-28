@@ -27,7 +27,7 @@ My research interests mainly include Artificial Intelligence (AI) Ethics, Trustw
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AI_Ethics.png' alt="sym" width="35%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-I run the WeChat pulic account **AI Ethics**. The continuously emerging risk issues in the development and application of Artificial Intelligence (AI) have drawn significant global attention. Emphasizing AI ethics, strengthening AI governance, and developing trustworthy AI have become a global consensus. This public account is dedicated to sharing knowledge and updates related to AI ethics, AI governance, and trustworthy AI.  
+I run the WeChat public account **AI Ethics**. The continuously emerging risk issues in the development and application of Artificial Intelligence (AI) have drawn significant global attention. Emphasizing AI ethics, strengthening AI governance, and developing trustworthy AI have become a global consensus. This public account is dedicated to sharing knowledge and updates related to AI ethics, AI governance, and trustworthy AI.  
 </div>
 </div>
 
