@@ -33,10 +33,25 @@ I run the WeChat public account **AI Ethics**. The continuously emerging risk is
 
 
 # Research 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MOFAE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-objective Feature Attribution Explanation For Explainable Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3617380)
+
+Ziming Wang, **Changwu Huang**, Yun Li, Xin Yao*
+
+[**Project**](https://scholar.google.fr/citations?view_op=view_citation&hl=zh-CN&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:geHnlv5EZngC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:geHnlv5EZngC'></span></strong>
+
+**Impact Statement:** The feature attribution-based explanation (FAE) methods, which indicate how much each input feature contributes to the model’s output for a given data point, are one of the most popular categories of explainable machine learning techniques. This work formulates the problem of creating FAE explainable models as a multi-objective learning problem that considers multiple explanation quality metrics simultaneously. Experimental results comparing with six state-of-the-art FAE methods on eight datasets demonstrate that our method can optimize multiple conflicting metrics simultaneously and can provide explanations with higher faithfulness, lower sensitivity, and lower complexity than the compared methods. Moreover, the results have shown that our method has better diversity, i.e., it provides various explanations that achieve different tradeoffs between multiple conflicting explanation quality metrics. Therefore, it can provide tailored explanations to different stakeholders based on their specific requirements.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Overview_of_AI_Ethics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844014)([Most popular article in IEEE TAI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688))
+[An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844014) ([Most popular article in IEEE TAI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688))
 
 **Changwu Huang**, Zeqi Zhang, Bifei Mao, Xin Yao*
 
@@ -64,7 +79,7 @@ Hao Bai, Lujie Shi, Younes Aoues, **Changwu Huang***, Didier Lemosse
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AAC_procedure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey of Automatic Parameter Tuning Methods for Metaheuristics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733017&tag=1)([ESI highly cited paper](https://www.webofscience.com/wos/alldb/full-record/WOS:000524328700001))
+[A Survey of Automatic Parameter Tuning Methods for Metaheuristics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733017&tag=1) ([ESI highly cited paper](https://www.webofscience.com/wos/alldb/full-record/WOS:000524328700001))
 
 **Changwu Huang**, Yuanxiang Li, Xin Yao*
 
