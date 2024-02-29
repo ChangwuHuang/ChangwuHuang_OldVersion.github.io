@@ -21,7 +21,7 @@ I am currently a Research Associate Professor in the [Department of Computer Sci
 
 I obtained my Bachelor’s degree from Southwest Jiaotong University in 2010, Master’s degree from Beijing Jiaotong University in 2013, and Ph.D. degree from Institut National des Sciences Appliquées de Rouen Normandie (INSA Rouen Normandie), France, in 2018. From March 2018 to September 2020, I was a Post-Doctor in Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)’s group at the CSE of SUSTech. Subsequently, from October 2020 to September 2023, I served as a Research Assistant Professor within the same group at SUSTech.
 
-My research interests mainly include Artificial Intelligence (AI) Ethics, Trustworthy Machine Learning (ML), and Evolutionary Computation. I have published more than 30 research papers with total <a href='https://scholar.google.fr/citations?user=QRnmYfkAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
+My research interests mainly include Artificial Intelligence (AI) Ethics, Trustworthy Machine Learning (ML), and Evolutionary Computation. I have published more than 30 research papers with total <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=QRnmYfkAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
 
 Through my educational pursuits and professional experiences, I have cultivated a robust interdisciplinary research background. During my doctoral studies, I specialized in applying AI techniques to address engineering problems in mechanical engineering, particularly in reliability-based optimization and fatigue damage analysis. Transitioning into my postdoctoral role from March 2018 to September 2020, I concentrated on the automatic algorithm configuration for AI algorithms, specifically evolutionary algorithms. Since late 2020, my research has shifted towards AI ethics and trustworthy AI, areas that represent significant global research trends. Presently, my active research centers on AI Ethics and Trustworthy ML, with a particular emphasis on key ethical considerations such as explainability, fairness, safety, and privacy.
 
@@ -43,7 +43,7 @@ I manage the WeChat public account “**AI Ethics**”. The ongoing emergence of
 
 Ziming Wang, **Changwu Huang**, Yun Li, Xin Yao*
 
-[**Project**](https://scholar.google.fr/citations?view_op=view_citation&hl=zh-CN&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:geHnlv5EZngC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:geHnlv5EZngC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:geHnlv5EZngC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:geHnlv5EZngC'></span></strong>
 
 The feature attribution-based explanation (FAE) methods, which indicate how much each input feature contributes to the model’s output for a given data point, are one of the most popular categories of explainable machine learning techniques. This work formulates the problem of creating FAE explainable models as a multi-objective learning problem that considers multiple explanation quality metrics simultaneously. Experimental results comparing with six state-of-the-art FAE methods on eight datasets demonstrate that our method can optimize multiple conflicting metrics simultaneously and can provide explanations with higher faithfulness, lower sensitivity, and lower complexity than the compared methods. Moreover, the results have shown that our method has better diversity, i.e., it provides various explanations that achieve different tradeoffs between multiple conflicting explanation quality metrics. Therefore, it can provide tailored explanations to different stakeholders based on their specific requirements.
 </div>
@@ -57,7 +57,7 @@ The feature attribution-based explanation (FAE) methods, which indicate how much
 
 **Changwu Huang**, Zeqi Zhang, Bifei Mao, Xin Yao*
 
-[**Project**](https://scholar.google.fr/citations?view_op=view_citation&hl=zh-CN&user=QRnmYfkAAAAJ&citation_for_view=QRnmYfkAAAAJ:K3LRdlH-MEoC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:K3LRdlH-MEoC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&citation_for_view=QRnmYfkAAAAJ:K3LRdlH-MEoC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:K3LRdlH-MEoC'></span></strong>
 
 AI ethics is an important emerging topic among academia, industry, government, society, and individuals. In the past decades, many efforts have been made to study the ethical issues in AI. This article offers a comprehensive overview of the AI ethics field, including a summary and analysis of AI ethical issues, ethical guidelines and principles, approaches to address AI ethical issues, and methods to evaluate the ethics of AI technologies. Additionally, research challenges and future perspectives are discussed. This article will help researchers to gain a birds eye view of AI ethics, and thus facilitate their further investigation and research.
 </div>
@@ -71,7 +71,7 @@ AI ethics is an important emerging topic among academia, industry, government, s
 
 Hao Bai, Lujie Shi, Younes Aoues, **Changwu Huang***, Didier Lemosse
 
-[**Project**](https://scholar.google.fr/citations?view_op=view_citation&hl=zh-CN&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:vRqMK49ujn8C) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:vRqMK49ujn8C'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:vRqMK49ujn8C) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:vRqMK49ujn8C'></span></strong>
 
 Fatigue is one of the most significant failure modes in structural and mechanical design. However, fatigue analysis usually suffers from two main challenges: 1) fatigue failure is hard to be predicted accurately, and 2) numerical fatigue damage estimation approaches are time-consuming. To overcome these drawbacks, this work firstly proposes a probabilistic fatigue analysis framework to estimate the fatigue damage of wind turbine tower based on numerical simulations. Then, to reduce the computational cost of numerical approach, a residual neural network (ResNet)-assisted fatigue estimation approach is designed for the assessment of long-term fatigue loads under the proposed probabilistic fatigue analysis framework, where machine learning model is used to approximate the relationship between the load (i.e., wind speed in our study case) and the fatigue damage so that a large number of simulations can be replaced by model prediction. Our proposed method is validated by numerical studies with a state-of-the-art wind turbine and has been applied in a wind turbine design with real-world wind loads.
 </div>
@@ -85,7 +85,7 @@ Fatigue is one of the most significant failure modes in structural and mechanica
 
 **Changwu Huang**, Hao Bai, Xin Yao*
 
-[**Project**](https://scholar.google.fr/citations?view_op=view_citation&hl=zh-CN&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:uWQEDVKXjbEC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:uWQEDVKXjbEC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:uWQEDVKXjbEC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:uWQEDVKXjbEC'></span></strong>
 
 The performance of evolutionary algorithms (EAs) is strongly affected by their configurations. Thus, algorithm configuration (AC) problem, that is, to properly set algorithm’s configuration, including the operators and parameter values for maximizing the algorithm’s performance on given problem(s) is an essential and challenging task in the design and application of EAs. In this paper, an online algorithm configuration (OAC) approach is proposed for differential evolution (DE) algorithm to adapt its configuration in a data-driven way. In our proposed OAC, the multi-armed bandit algorithm is adopted to select trial vector generation strategies for DE, and the kernel density estimation method is used to adapt the associated control parameters during the evolutionary search process. 
 </div>
@@ -99,7 +99,7 @@ The performance of evolutionary algorithms (EAs) is strongly affected by their c
 
 **Changwu Huang**, Yuanxiang Li, Xin Yao*
 
-[**Project**](https://scholar.google.fr/citations?view_op=view_citation&hl=zh-CN&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:bFI3QPDXJZMC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:bFI3QPDXJZMC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&citation_for_view=QRnmYfkAAAAJ:bFI3QPDXJZMC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:bFI3QPDXJZMC'></span></strong>
 
 Parameter tuning, that is, to find appropriate parameter settings (or configurations) of algorithms so that their performance is optimized, is an important task in the development and application of metaheuristics. Automating this task, i.e., developing algorithmic procedure to address parameter tuning task, is highly desired and has attracted significant attention from the researchers and practitioners. During last two decades, many automatic parameter tuning approaches have been proposed. This paper presents a comprehensive survey of automatic parameter tuning methods for metaheuristics. A new classification (or taxonomy) of automatic parameter tuning methods is introduced according to the structure of tuning methods. The existing automatic parameter tuning approaches are reviewed and their main strengths and weaknesses are discussed, which is helpful for new researchers or practitioners to select appropriate tuning methods to use.
 </div>
