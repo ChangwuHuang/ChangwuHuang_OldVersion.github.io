@@ -26,7 +26,7 @@ My research interests mainly include Artificial Intelligence (AI) Ethics, Trustw
 Through my educational pursuits and professional experiences, I have cultivated a robust interdisciplinary research background. During my doctoral studies, I specialized in applying AI techniques to address engineering problems in mechanical engineering, particularly in reliability-based optimization and fatigue damage analysis. Transitioning into my postdoctoral role from March 2018 to September 2020, I concentrated on the automatic algorithm configuration for AI algorithms, specifically evolutionary algorithms. Since late 2020, my research has shifted towards AI ethics and trustworthy AI, areas that represent significant global research trends. Presently, my active research centers on AI Ethics and Trustworthy ML, with a particular emphasis on key ethical considerations such as explainability, fairness, safety, and privacy.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AI_Ethics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div><div class="badge"></div><img src='images/AI_Ethics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 I manage the WeChat public account “**AI Ethics**”. The ongoing emergence of risk issues in the development and application of Artificial Intelligence (AI) has captured substantial global attention. Prioritizing AI ethics, reinforcing AI governance, and fostering trustworthy AI have evolved into a worldwide consensus. This platform is committed to disseminating information and updates concerning AI ethics, AI governance, and trustworthy AI.  
