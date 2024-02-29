@@ -97,7 +97,7 @@ The performance of evolutionary algorithms (EAs) is strongly affected by their c
 
 [Surrogate Models in Evolutionary Single-objective Optimization: A New Taxonomy and Experimental Study](https://www.sciencedirect.com/science/article/pii/S0020025521002395)
 
-Hao Tong*, **Changwu Huang**, Leandro L. Minku, Xin Yao*
+Hao Tong, **Changwu Huang**, Leandro L. Minku, Xin Yao
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&citation_for_view=QRnmYfkAAAAJ:xtRiw3GOFMkC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:xtRiw3GOFMkC'></span></strong>
 
