@@ -9,7 +9,7 @@
 title                    : "Changwu HUANG"
 description              : "Research Associate Professor at Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech)."
 repository               : "ChangwuHuang/ChangwuHuang.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false #true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
