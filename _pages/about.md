@@ -92,6 +92,23 @@ The performance of evolutionary algorithms (EAs) is strongly affected by their c
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SAEA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Surrogate Models in Evolutionary Single-objective Optimization: A New Taxonomy and Experimental Study](https://www.sciencedirect.com/science/article/pii/S0020025521002395)
+
+Hao Tong*, **Changwu Huang**, Leandro L. Minku, Xin Yao*
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&citation_for_view=QRnmYfkAAAAJ:xtRiw3GOFMkC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:xtRiw3GOFMkC'></span></strong>
+Surrogate-assisted evolutionary algorithms (SAEAs), which use efficient surrogate models or meta-models to approximate the fitness function in evolutionary algorithms (EAs), are effective and popular methods for solving computationally expensive optimization problems. This paper dedicates to providing a more systematical review and comprehensive empirical study of surrogate models used in single-objective SAEAs. 
+- A review and comparison of surrogate models used in single-objective SAEAs.
+- Review surrogate models in terms of absolute and relative fitness models.
+- The construction and prediction time of models, and model’s accuracy are compared.
+- SAEAs with different surrogate models are compared.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AAC_procedure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
