@@ -160,7 +160,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 
 # Education
 - 09/2013 -- 02/2018, Ph.D. in Mechanics, [INSA Rouen Normandie](https://www.insa-rouen.fr/), France.
-  - Dissertation Title: Kriging-Assisted Evolution Strategy for Optimization and Application in Material Parameters Identification.
+  - Dissertation Title: [Kriging-Assisted Evolution Strategy for Optimization and Application in Material Parameters Identification](https://theses.hal.science/tel-03669789/).
   - Laboratory: [Laboratoire de Mécanique de Normandie (LMN)](https://www.insa-rouen.fr/recherche/laboratoires/lmn)
   - Supervisor: Abdelkhalak EL HAMI
 - 09/2010 -- 01/2013, M.S. in Vehicle Engineering, [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/), China.
