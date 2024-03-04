@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div style="text-align: justify;">
+
 I am currently a Research Associate Professor in the [Department of Computer Science and Engineering (CSE)](https://cse.sustech.edu.cn/) at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), Shenzhen, China. I received my Bachelor’s degree from Southwest Jiaotong University, Chengdu, China, in 2010, Master’s degree from Beijing Jiaotong University, Beijing, China, in 2013, and Ph.D. degree from Institut National des Sciences Appliquées de Rouen Normandie (INSA Rouen Normandie), Rouen, France, in 2018. Since March 2018, I have been a member of Professor [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)’s team at SUSTech, serving consecutively as a Postdoctoral Fellow (03/2018-09/2020), Research Assistant Professor (10/2020-09/2023), and Research Associate Professor (10/2023-Present). My research interests mainly include Artificial Intelligence Ethics (AI Ethics), Trustworthy Artificial Intelligence (Trustworthy AI), Evolutionary Computation (EC), and their practical applications.
 
 ## Research Interests
