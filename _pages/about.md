@@ -31,7 +31,7 @@ Through my educational pursuits and professional experiences, I have cultivated 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AI_Ethics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-I manage the WeChat public account “**AI Ethics**”. The ongoing emergence of risk issues in the development and application of Artificial Intelligence (AI) has captured substantial global attention. Prioritizing AI ethics, reinforcing AI governance, and fostering trustworthy AI have evolved into a worldwide consensus. This platform is committed to disseminating information and updates concerning AI ethics, AI governance, and trustworthy AI.  
+<div style="text-align: justify;"> I manage the WeChat public account “**AI Ethics**”. The ongoing emergence of risk issues in the development and application of Artificial Intelligence (AI) has captured substantial global attention. Prioritizing AI ethics, reinforcing AI governance, and fostering trustworthy AI have evolved into a worldwide consensus. This platform is committed to disseminating information and updates concerning AI ethics, AI governance, and trustworthy AI.  
 </div>
 </div>
 
