@@ -20,6 +20,7 @@ redirect_from:
 
 I am currently a Research Associate Professor in the [Department of Computer Science and Engineering (CSE)](https://cse.sustech.edu.cn/) at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), Shenzhen, China. I received my Bachelor’s degree from Southwest Jiaotong University, Chengdu, China, in 2010, Master’s degree from Beijing Jiaotong University, Beijing, China, in 2013, and Ph.D. degree from Institut National des Sciences Appliquées de Rouen Normandie (INSA Rouen Normandie), Rouen, France, in 2018. Since March 2018, I have been a member of Professor [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)’s team at SUSTech, serving consecutively as a Postdoctoral Fellow (03/2018-09/2020), Research Assistant Professor (10/2020-09/2023), and Research Associate Professor (10/2023-Present). My research interests mainly include Artificial Intelligence Ethics (AI Ethics), Trustworthy Artificial Intelligence (Trustworthy AI), Evolutionary Computation (EC), and their practical applications.
 
+
 ## Research Interests
 
 Through my educational pursuits and professional experiences, I have cultivated a robust interdisciplinary research background. During my doctoral studies, I specialized in applying AI techniques (e.g., machine learning and evolutionary algorithms) to address engineering problems, particularly uncertainty analysis, material parameter identification, and fatigue damage analysis in mechanical engineering. Transitioning into my postdoctoral role from March 2018 to September 2020, I concentrated on the automatic algorithm configuration for AI algorithms, specifically for evolutionary algorithms and other intelligent optimization algorithms. Since late 2020, my research trajectory has evolved towards the areas of AI ethics and trustworthy AI, which are not only current global research trends but also pivotal future developmental directions of AI. At present, my research is centered on AI Ethics and Trustworthy AI, with a strong emphasis on essential ethical considerations including transparency, explainability, fairness, safety, and privacy. I have published more than 30 research papers with total <a href='https://scholar.google.com/citations?user=QRnmYfkAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>. 
@@ -29,6 +30,7 @@ Through my educational pursuits and professional experiences, I have cultivated 
 - **Evolutionary Computation** is a computational methodology inspired by biological evolution and natural selection for addressing optimization and search problems. My research involves Surrogate-Assisted Evolutionary Optimization, Automatic Algorithm Configuration (Parameter Tuning), and Surrogate Modeling in engineering tasks (e.g., uncertainty analysis, fatigue damage analysis, material parameter identification). 
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AI_Ethics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -36,6 +38,7 @@ I manage the WeChat public account “**AI Ethics**”. The ongoing emergence of
 
 </div>
 </div>
+
 
 
 # Research 
@@ -54,6 +57,7 @@ The feature attribution-based explanation (FAE) methods, which indicate how much
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Overview_of_AI_Ethics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,6 +70,7 @@ The feature attribution-based explanation (FAE) methods, which indicate how much
 AI ethics is an important emerging topic among academia, industry, government, society, and individuals. In the past decades, many efforts have been made to study the ethical issues in AI. This article offers a comprehensive overview of the AI ethics field, including a summary and analysis of AI ethical issues, ethical guidelines and principles, approaches to address AI ethical issues, and methods to evaluate the ethics of AI technologies. Additionally, research challenges and future perspectives are discussed. This article will help researchers to gain a birds eye view of AI ethics, and thus facilitate their further investigation and research.
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MSSP_ResNet.png' alt="sym" width="100%"></div></div>
@@ -82,6 +87,7 @@ Fatigue is one of the most significant failure modes in structural and mechanica
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/OAC_DE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -96,6 +102,7 @@ The performance of evolutionary algorithms (EAs) is strongly affected by their c
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SAEA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -108,6 +115,7 @@ Hao Tong, **Changwu Huang**, Leandro L. Minku, Xin Yao
 Surrogate-assisted evolutionary algorithms (SAEAs), which use efficient surrogate models or meta-models to approximate the fitness function in evolutionary algorithms (EAs), are effective and popular methods for solving computationally expensive optimization problems. This paper dedicates to providing a more systematical review and comprehensive empirical study of surrogate models used in single-objective SAEAs. 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AAC_procedure.png' alt="sym" width="100%"></div></div>
@@ -157,9 +165,28 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 -	J. L. Li, N. Xiao, **C. W. Huang**, and N. J. Fu, “[Thermal Elasto-Plastic FEM Analysis of the New Heavy-Haul Freight Car Wheel Plate,](https://www.scientific.net/AMM.251.304)” Applied Mechanics and Materials, vol. 251, pp. 304-309, Dec. 2012.
 -	N. J. Fu, J. L. Xie, **C. W. Huang**, and Y. Teng, “[Research on Fatigue Properties of Grade B Steel Casted by the Resin Sand Process,](https://www.scientific.net/AMM.189.218)” Applied Mechanics and Materials, vol. 189, pp. 218-224, Jul. 2012. 
 
+
+
+## Projects and Grants
+- Joint Project between Huawei Technologies Co., Ltd. and SUSTech, “Conceptual Analysis and Path Exploration of Transparency in AI Governance” (智能系统透明治理的概念辨析及路径探索), **Principal Investigator**, 08/2023 - 08/2024.
+
+- Youth Program of Guangdong Basic and Applied Basic Research Foundation, “Automatic Design of Evolutionary Algorithms” (进化算法的自动设计), **Principal Investigator**, 01/2020 - 12/2021.
+
+- Shenzhen Postdoctoral Research Funding, **Principal Investigator**, 10/2020 - 10/2023
+
+- Key Program of Guangdong Basic and Applied Basic Research Foundation, “Research on Trustworthy, Explainable, and Evolvable Intelligent Computing Theory and Methods” (可信、可解释和可进化的智能计算理论和方法研究), Core Member, 01/2023 - 12/2027.
+
+- Joint Project between Huawei Technologies Co., Ltd. and SUSTech, “Basic Theory and Key Technologies for Trustworthy Intelligent Systems” (可信系统基础理论和关键技术), Core Member, 01/2021 - 06/2022.
+
+- Pearl River Talent Program for Guangdong Introducing Innovative and Entrepreneurial Teams, “Reconfigurable Brain-like Intelligent Computing System” (可重构类脑智能计算系统), Member, 09/2018 - 08/2023. 
+
+
+
 ## Patents
 -	Ziming Wang, **Changwu Huang**, and Xin Yao, “A Data Set Shift Identification Method Based on Feature Attribution Explanation Techniques” (一种基于特征归因解释技术的数据集偏移识别方法), CN202310410718.7, 2023.
+
 -	Chao Pan, **Changwu Huang**, Bo Yuan, Xin Yao, “Method, Apparatus, Device, and Storage Medium for Automatic Acquisition of Case Information” (案件信息的自动获取方法、装置、设备和存储介质), CN202010590436.6, 2020.
+
 
 
 # Education
@@ -167,8 +194,10 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
   - Dissertation Title: [Kriging-Assisted Evolution Strategy for Optimization and Application in Material Parameters Identification](https://theses.hal.science/tel-03669789/).
   - Laboratory: [Laboratoire de Mécanique de Normandie (LMN)](https://www.insa-rouen.fr/recherche/laboratoires/lmn)
   - Supervisor: Abdelkhalak EL HAMI
+
 - 09/2010 -- 01/2013, M.S. in Vehicle Engineering, [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/), China.
   - Recommended for the UT-INSA Ph.D. program founded by the China Scholarship Council.
+
 - 09/2006 -- 06/2010, B.S. in Vehicle Engineering, [Southwest Jiaotong University (SWJTU)](https://www.swjtu.edu.cn/), China.
     - Graduated with honor as Outstanding Graduate of Sichuan Province.
     - Recommended for admission to postgraduate study, exempted from the Admission Examination.
@@ -177,33 +206,49 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 # Work Experience
 - 10/2023 -- Present, Research Associate Professor (Master Supervisor), Department of CSE, SUSTech, Shenzhen, China.
   - OPtimization And Learning (OPAL) Laboratory, led by Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
+
 - 10/2020 -- 09/2023, Research Assistant Professor (Master Supervisor), Department of CSE, SUSTech, Shenzhen, China.
     - OPtimization And Learning (OPAL) Laboratory, led by Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
+
 - 03/2018 -- 09/2020, Postdoctoral Researcher, Department of CSE, SUSTech, Shenzhen, China.
     - Cooperation Supervisor: Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
 
 
 # Honors and Awards
 - Our paper “An Overview of Artificial Intelligence Ethics” was selected as the Excellent Science & Technology Academic Paper by the Shenzhen Association for Science and Technology (深圳市第二届优秀科技学术论文奖), 2022. 
+
 - Scholarship from China Scholarship Council (CSC) to pursue Ph.D. study, 2013-2017.
+
 - First-Class Graduate Student Fellowship of BJTU, 2011.
+
 - Outstanding University Graduate of Sichuan Province, 2010.
+
 - Outstanding Undergraduate Graduate Design & Thesis of SWJTU, 2010.
+
 - National Scholarship, 2006 and 2009.
 
 
 # Invited Talks
 - December 2023, I was invited to participate in the New Generation of Artificial Intelligence and Education expert consultation seminar ([“新一代人工智能与教育”专家咨询研讨会](https://efuture.sustech.edu.cn/news/detail/753.html?lang=zh-cn)), and delivered a keynote talk on the topic of “The Talent View of AI Era: Combining Virtue with Abilities”(AI 时代德才兼备的人才观).
+
 - July 2023, I was invited to give a lecture on “Ethics and Safety in the AI Era” (AI 时代的伦理与安全) at the training program for principals on AI education leadership enhancement in Shenzhen primary and secondary schools ([“深圳市中小学校长人工智能教育领导力提升研训”培训班](https://efuture.sustech.edu.cn/news/detail/741.html?lang=zh-cn)).
+
 - July 2023, I was invited to deliver a lecture on “AI Ethics and Safety” (AI 伦理与安全) at the training program for outstanding teachers in Shenzhen primary and secondary schools to improve their teaching capabilities ([“深圳市中小学骨干教师教学能力提升研训”培训班](https://efuture.sustech.edu.cn/news/detail/747.html?lang=zh-cn)).
+
 - October 2022, I was invited to present a keynote talk titled “An Overview of Artificial Intelligence Ethics” (人工智能伦理研究现状) at the 2022 AI Ethics Governance Forum ([2022 年人工智能伦理治理论坛](https://saai.net.cn/2464.html)) organized by the Shenzhen Association for Artificial Intelligence (SAAI).
 
 
 # Professional Service
 -	Core member of the Artificial Intelligence Education Research Center, Southern University of Science and Technology ([南方科技大学人工智能教育研究中心](https://efuture.sustech.edu.cn/news/detail/744.html?lang=zh-cn)), since October 2023.
+
 -	Session Chair for the Neural Networks and Intelligent Algorithms session at the [International Conference on Neuromorphic Computing (ICNC2023)](http://icnc2023.org/), December 2023.
+
 -	Secretary Member of the AI Ethics Governance Committee of [Shenzhen Association for Artificial Intelligence (SAAI)](https://saai.net.cn/) (深圳市人工智能学会AI伦理治理专委会秘书委员), since November 2022.
+
 -	Member of the Institute of Electrical and Electronics Engineers (IEEE), since October 2019.
+
 -	Member of Chinese Association for Artificial Intelligence (CAAI), since September 2022.
+
 -	Member of China Computer Federation (CCF), since October 2021.
+
 -	Reviewer for international journals such as IEEE TEVC, IEEE TAI, Knowledge-Based Systems, Memetic Computing, etc.
