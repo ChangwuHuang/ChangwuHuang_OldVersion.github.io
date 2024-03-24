@@ -4,19 +4,17 @@ main:
     url: "/#about-me"
 
   - title: "Research"
-    url: "/#research"
+    url: "/#-research"
 
-  - title: "Education"
-    url: "/#education"
+  - title: "Experiences"
+    url: "/#-experiences"
 
-  - title: "Work Experience"
-    url: "/#work-experience"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Invited Talks"
-    url: "/#invited-talks"
+    url: "/#-invited-talks"
 
   - title: "Professional Service"
-    url: "/#professional-service"
+    url: "/#-professional-service"

@@ -41,7 +41,7 @@ I manage the WeChat public account “**AI Ethics**”. The ongoing emergence of
 
 
 
-# Research
+# 🔬 Research
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MOFAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -189,7 +189,9 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 
 
 
-# Education
+# 📖 Experiences
+
+## Education Experience
 - 09/2013 -- 02/2018, Ph.D. in Mechanics, [INSA Rouen Normandie](https://www.insa-rouen.fr/), France.
   - Dissertation Title: [Kriging-Assisted Evolution Strategy for Optimization and Application in Material Parameters Identification](https://theses.hal.science/tel-03669789/).
   - Laboratory: [Laboratoire de Mécanique de Normandie (LMN)](https://www.insa-rouen.fr/recherche/laboratoires/lmn)
@@ -203,7 +205,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
     - Recommended for admission to postgraduate study, exempted from the Admission Examination.
 
 
-# Work Experience
+## Work Experience
 - 10/2023 -- Present, Research Associate Professor (Master Supervisor), Department of CSE, SUSTech, Shenzhen, China.
   - OPtimization And Learning (OPAL) Laboratory, led by Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
 
@@ -214,7 +216,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
     - Cooperation Supervisor: Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
 
 
-# Honors and Awards
+# 🎖 Honors and Awards
 - Our paper “An Overview of Artificial Intelligence Ethics” was selected as the Excellent Science & Technology Academic Paper by the Shenzhen Association for Science and Technology (深圳市第二届优秀科技学术论文奖), 2022. 
 
 - Scholarship from China Scholarship Council (CSC) to pursue Ph.D. study, 2013-2017.
@@ -228,7 +230,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 - National Scholarship, 2006 and 2009.
 
 
-# Invited Talks
+#  💬 Invited Talks
 - December 2023, I was invited to participate in the New Generation of Artificial Intelligence and Education expert consultation seminar ([“新一代人工智能与教育”专家咨询研讨会](https://efuture.sustech.edu.cn/news/detail/753.html?lang=zh-cn)), and delivered a keynote talk on the topic of “The Talent View of AI Era: Combining Virtue with Abilities”(AI 时代德才兼备的人才观).
 
 - July 2023, I was invited to give a lecture on “Ethics and Safety in the AI Era” (AI 时代的伦理与安全) at the training program for principals on AI education leadership enhancement in Shenzhen primary and secondary schools ([“深圳市中小学校长人工智能教育领导力提升研训”培训班](https://efuture.sustech.edu.cn/news/detail/741.html?lang=zh-cn)).
@@ -238,7 +240,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 - October 2022, I was invited to present a keynote talk titled “An Overview of Artificial Intelligence Ethics” (人工智能伦理研究现状) at the 2022 AI Ethics Governance Forum ([2022 年人工智能伦理治理论坛](https://saai.net.cn/2464.html)) organized by the Shenzhen Association for Artificial Intelligence (SAAI).
 
 
-# Professional Service
+# 💻 Professional Service
 -	Core member of the Artificial Intelligence Education Research Center, Southern University of Science and Technology ([南方科技大学人工智能教育研究中心](https://efuture.sustech.edu.cn/news/detail/744.html?lang=zh-cn)), since October 2023.
 
 -	Session Chair for the Neural Networks and Intelligent Algorithms session at the [International Conference on Neuromorphic Computing (ICNC2023)](http://icnc2023.org/), December 2023.
