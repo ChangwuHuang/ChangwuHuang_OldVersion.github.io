@@ -41,7 +41,7 @@ I manage the WeChat public account “**AI Ethics**”. The ongoing emergence of
 
 
 
-# <table><tr><td bgcolor=#DCDCDC>Research</td></tr></table>
+# Research
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MOFAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
