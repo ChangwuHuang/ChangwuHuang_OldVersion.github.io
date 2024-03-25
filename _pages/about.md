@@ -269,155 +269,153 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 -	Reviewer for international journals such as IEEE TEVC, IEEE TAI, Knowledge-Based Systems, Memetic Computing, etc.
 
 
-# 🗃️ Portfolio
+# 🗂️ Portfolio
 
-## Ethical Guidelines for AI
-|		Name of document	                                    |	Issuer	|	Country of Issuer	|	Year	|
-|:---- |:---- |:----|:----|
-|[Recommendation on the Ethics of Artificial Intelligence](https://en.unesco.org/artificial-intelligence/ethics )|UNESCO|International|2021|
-|[A guide to good practice for digital and data-driven health technologies](https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology)|Government of United Kingdom|UK|2021|
-|[Data Ethics Impact Assessment](https://dataethics.eu/wp-content/uploads/dataethics-impact-assessment-2021.pdf)|DataEthics.eu|Denmark |2021|
-|[Responsible AI: From Principles to Practice](https://www.accenture.com/us-en/insights/artificial-intelligence/responsible-ai-principles-practice)|Accenture|Ireland|2021|
-|[Ethical Principles for Artificial Intelligence](https://www.ai.mil/docs/Ethical_Principles_for_Artificial_Intelligence.pdf)|U.S. Department of Defense|USA|2020|
-|[Turkcell Artificial Intelligence Principles](https://www.turkcell.com.tr/en/aboutus/corporate-social-responsibility/turkcell-artificial-intelligence-principles-)|Turkcell|Turkey|2020|
-|[Guidance for Regulation of Artificial Intelligence Applications](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf)|The White House Office of Science and Technology Policy (OSTP), United States|USA|2020|
-|[Rome Call For AI Ethics](https://www.romecall.org/)|The Pontifical Academy for Life, Microsoft, IBM, FAO, the Italian Ministry of Innovation|Vatican|2020|
-|[OECD Principles on AI](https://www.oecd.org/going-digital/ai/principles/)|The Organisation for Economic Co-operation and Development (OECD) |International|2020|
-|[A Framework For The Ethical Use Of Advanced Data Science Methods In The Humanitarian Sector](https://5f2cd2ba-741c-4b29-ae47-00a8291b1d3c.filesusr.com/ugd/d1cf5c_6af8feb771194453817d62c92cee2a21.pdf)|The Humanitarian Data Science and Ethics Group (DSEG)|Netherlands|2020|
-|[“ARCC”: An Ethical Framework for Artificial Intelligence](https://www.tisi.org/13747)|Tencent Research Institute|China|2020|
-|[Code of Ethics](https://pocketconfidant.com/code-of-ethics/)|PocketConfidant AI|France|2020|
-|[Model AI Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgmodelaigovframework2.pdf)|Personal Data Protection Commission (PDPC), Singapore|Singapore|2020|
-|[The Morals of Algorithms – A contribution to the ethics of AI systems](https://www.nxp.com/docs/en/white-paper/AI-ETHICAL-FRAMEWORK-WP.pdf)|NXP Semiconductors|Netherlands|2020|
-|[Ethics Framework ](https://www.migarage.ai/ethics/ethics-framework/)|Machine Intelligence Garage’s Ethics Committee|UK|2020|
-|[Ethical Principles](https://koahealth.com/legal/ethical-principles)|Koa Health|Spain|2020|
-|[Responsible AI: A Roadmap For The Enterprise](https://integrate.ai/resources/responsible-ai/)|Integrate.AI|Canada|2020|
-|[Advancing AI ethics beyond compliance - From principles to practice](https://www.ibm.com/thought-leadership/institute-business-value/report/ai-ethics)|IBM|USA|2020|
-|[Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)|High-Level Expert Group on Artificial Intelligence (AI HLEG) |EU|2020|
-|[Data Ethics Framework](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923108/Data_Ethics_Framework_2020.pdf)|Government Digital Service|UK|2020|
-|[White Paper on Artificial Intelligence: a European approach to excellence and trust](https://ec.europa.eu/info/publications/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en)|European Commission |EU|2020|
-|[White Paper on Data Ethics in Public Procurement of AI-based Services and Solutions](https://dataethics.eu/wp-content/uploads/dataethics-whitepaper-april-2020.pdf)|DataEthics.eu|Denmark |2020|
-|[Bosch code of ethics for AI](https://www.bosch.com/stories/ethical-guidelines-for-artificial-intelligence/)|Bosch|Germany|2020|
-|[Seven principles for AI: BMW Group sets out code of ethics for the use of artificial intelligence](https://www.press.bmwgroup.com/global/article/detail/T0318411EN/seven-principles-for-ai:-bmw-group-sets-out-code-of-ethics-for-the-use-of-artificial-intelligence?language=en)|BMW|Germany|2020|
-|[Using artificial intelligence to make decisions: Addressing the problem of algorithmic bias](https://www.infogovanz.com/ai-ethics/using-artificial-intelligence-to-make-decisions-addressing-the-problem-of-algorithmic-bias/)|Australian Human Rights Commission|Australia|2020|
-|[AI4People's 7 AI Global Frameworks](https://ai4people.eu/wp-content/pdf/AI4People7AIGlobalFrameworks.pdf)|AI4People|EU|2020|
-|[From Principles to Practice – An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/en)|AI Ethics Impact Group (AIEI Group)|Germany|2020|
-|[Ethical Application of Artificial Intelligence Framework ](https://www.actiac.org/act-iac-white-paper-ethical-application-ai-framework)|ACT-IAC Emerging Technology COI|USA|2020|
-|[10 Principles of Responsible AI](https://womenleadinginai.org/wp-content/uploads/2019/02/WLiAI-Report-2019.pdf)|Women Leading in AI|N/A|2019|
-|[US Chamber of Commerce: Principles on Artificial Intelligence](https://iapp.org/media/pdf/resource_center/chamber_ai_principles_-_general.pdf)|The U.S. Chamber of Commerce|USA|2019|
-|[Understanding Artificial Intelligence Ethics and Safety](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)|The Alan Turing Institute|UK|2019|
-|[Guiding Principles on Trusted AI Ethics](https://www.teliacompany.com/globalassets/telia-company/documents/about-telia-company/public-policy/2018/guiding-principles-on-trusted-ai-ethics.pdf)|Telia Company|Sweden|2019|
-|[Dutch Artificial Intelligence Manifesto](http://ii.tudelft.nl/bnvki/wp-content/uploads/2019/09/Dutch-AI-Manifesto-2019.pdf)|Special Interest Group on Artificial Intelligence (SIGAI), ICT Platform Netherlands (IPN)|Netherlands|2019|
-|[Principles for AI Ethics](https://research.samsung.com/artificial-intelligence)|Samsung|South Korea|2019|
-|[AI Ethics](https://einstein.ai/ethics)|Salesforce|USA|2019|
-|[Artificial Intelligence (AI) in Health](https://www.aomrc.org.uk/wp-content/uploads/2019/01/Artificial_intelligence_in_healthcare_0119.pdf)|Royal College of Physicians|UK|2019|
-|[Decree of the President of the Russian Federation on the Development of Artificial Intelligence in the Russian Federation](https://cset.georgetown.edu/wp-content/uploads/Decree-of-the-President-of-the-Russian-Federation-on-the-Development-of-Artificial-Intelligence-in-the-Russian-Federation-.pdf)|Office of the President of the Russian Federation|Russia|2019|
-|[Governance Principles for a New Generation of Artificial Intelligence: Develop Responsible Artificial Intelligence 《新一代人工智能治理原则——发展负责任的人工智能》](https://www.newamerica.org/cybersecurity-initiative/digichina/blog/translation-chinese-expert-group-offers-governance-principles-responsible-ai/)|National New Generation Artificial Intelligence Governance Expert Committee, China’s Ministry of Science and Technology|China|2019|
-|[MorphL AI Guiding Principles](https://morphl.io/ai-principles.html)|MorphL|USA|2019|
-|[Principles to Promote Fairness, Ethics, Accountability and Transparency (FEAT) in the Use of AI & Data Analytics in Singapore’s Financial Sector](https://www.mas.gov.sg/~/media/MAS/News%20and%20Publications/Monographs%20and%20Information%20Papers/FEAT%20Principles%20Final.pdf)|Monetary Authority of Singapore|Singapore|2019|
-|[AI Application Criteria 人工智能应用准则](https://megvii.com/news_detail/id/60)|MEGVII|China|2019|
-|[Social Principles of Human centric AI](https://stip.oecd.org/stip/policy-initiatives/2019%2Fdata%2FpolicyInitiatives%2F24341)|Integrated Innovation Strategy Promotion Council|Japan|2019|
-|[Ethical Aspects of Autonomous and Intelligent Systems](http://globalpolicy.ieee.org/wp-content/uploads/2019/06/IEEE19002.pdf)|IEEE |International|2019|
-|[Policy and investment recommendations for trustworthy Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/library/policy-and-investment-recommendations-trustworthy-artificial-intelligence)|High-Level Expert Group on AI (AI HLEG)|EU|2019|
-|[G20 AI Principles](https://www.g20-insights.org/wp-content/uploads/2019/07/G20-Japan-AI-Principles.pdf)|G20 Ministerial Meeting on Trade and Digital Economy|N/A|2019|
-|[A governance framework for algorithmic accountability and transparency](https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624262/EPRS_STU(2019)624262_EN.pdf)|European Parliamentary Research Service|EU|2019|
-|[Ethics guidelines for trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)|European Commission High Level Expert Group on AI|EU|2019|
-|[Digia’s ethical principles for utilising artificial intelligence](https://digia.com/en/actual/news/digias-ethical-principles-for-utilising-artificial-intelligence-published/)|Digia|Finland|2019|
-|[AI Ethics: The next big thing in Government](https://www2.deloitte.com/xe/en/pages/about-deloitte/articles/secure-benefits-ai-government-society.html..html)|Deloitte|UAE|2019|
-|[DeepMind Ethics & Society Themes](https://deepmind.com/about/ethics-and-society)|DeepMind Ethics & Society|UK|2019|
-|[National Strategy for Artificial Intelligence](https://eng.em.dk/media/13081/305755-gb-version_4k.pdf)|Danish Government|Denmark |2019|
-|[Joint Pledge on Artificial Intelligence Industry Self-Discipline (Draft for Comment) 人工智能行业自律公约 （征求意见稿）](https://www.newamerica.org/cybersecurity-initiative/digichina/blog/translation-chinese-ai-alliance-drafts-self-discipline-joint-pledge/)|China's Artificial Intelligence Industry Alliance (AIIA)|China|2019|
-|[Bejing AI Principles](https://www.baai.ac.cn/news/beijing-ai-principles-en.html)|Bejing Academy of Artificial Intelligence|China|2019|
-|[AI Ethics Principles](https://www.industry.gov.au/data-and-publications/building-australias-artificial-intelligence-capability/ai-ethics-framework/ai-ethics-principles)|Australian Government Department of Industry, Innovation and Science|Australia|2019|
-|[Artificial Intelligence: Australia’s Ethics Framework (A Discussion Paper)](https://consult.industry.gov.au/strategic-policy/artificial-intelligence-ethics-framework/)|Australian Government Department of Industry Innovation and Science|Australia|2019|
-|[Artificial Intelligence at AT&T: Our Guiding Principles](https://about.att.com/innovationblog/2019/05/our_guiding_principles.html)|AT&T |USA|2019|
-|[Ethics of AI in Radiology: European and North American Multisociety Statement](https://pubs.rsna.org/doi/10.1148/radiol.2019191586)|American College of Radiology; European Society of Radiology; Radiology Society of North America; Society for Imaging Informatics in Medicine; European Society of Medical Imaging Informatics; Canadian Association of Radiologists; American Association of Physicists in Medicine|International|2019|
-|[On Good AI Governance: 14 Priority Actions, a S.M.A.R.T. Model of Governance, and a Regulatory Toolbox](https://www.eismd.eu/wp-content/uploads/2019/11/AI4Peoples-Report-on-Good-AI-Governance_compressed.pdf)|AI4People|EU|2019|
-|[Responsible AI and Robotics: An Ethical Framework](https://www.accenture.com/gb-en/company-responsible-ai-robotics)|Accenture|Ireland|2019|
-|[White Paper: How to Prevent Discriminatory Outcomes in Machine Learning](https://www.unicef.org/innovation/reports/how-prevent-discriminatory-outcomes-machine-learning)|WEF, Global Future Council on Human Rights 2016-2018|International|2018|
-|[Montréal Declaration: Responsible AI](https://monoskop.org/images/b/b2/Report_Montreal_Declaration_for_a_Responsible_Development_of_Artificial_Intelligence_2018.pdf)|Université de Montréal (University of Montreal)|Canada|2018|
-|[Unity’s Guiding Principles for Ethical AI](https://blogs.unity3d.com/2018/11/28/introducing-unitys-guiding-principles-for-ethical-ai/)|Unity Technologies|USA|2018|
-|[White Paper – Building Ethics into Privacy Frameworks for Big Data and AI](https://iapp.org/resources/article/building-ethics-into-privacy-frameworks-for-big-data-and-ai/)|UN Global Pulse and IAPP|International|2018|
-|[AI in the UK: Ready, Willing and Able?](https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/100.pdf)|UK House of Lords, Select Committee on Artificial Intelligence|UK|2018|
-|[Initial Code of Conduct for Data-Driven Health and Care Technology](http://allcatsrgrey.org.uk/wp/download/informatics/www_gov_uk_government_publications_code_of_conduct_for_data_.pdf)|UK Department of Health & Social Care|UK|2018|
-|[Federal Data Strategy Framework](https://strategy.data.gov/overview/)|U.S. Government|USA|2018|
-|[Tieto’s AI Ethics Guidelines](https://www.tietoevry.com/contentassets/b097de43d84d4c84832f1fff2cb6a30d/tieto-s-ai-ethics-guidelines.pdf)|Tieto|Finland|2018|
-|[Universal Guidelines for Artificial Intelligence](https://thepublicvoice.org/ai-universal-guidelines/)|The Public Voice|International|2018|
-|[Artificial Intelligence and Privacy](https://www.datatilsynet.no/globalassets/global/english/ai-and-privacy.pdf)|The Norwegian Data Protection Authority|Norway|2018|
-|[The Responsible Machine Learning Principles](https://ethical.institute/principles.html)|The Institute for Ethical AI & Machine Learning|UK|2018|
-|[Toward a G20 Framework for Artificial Intelligence in the Workplace](https://www.cigionline.org/publications/toward-g20-framework-artificial-intelligence-workplace/)|The Centre for International Governance Innovation (CIGI)|Canada|2018|
-|[AI Principles of Telefónica](https://www.telefonica.com/documents/364672/143939197/principios-ai-eng-2018.pdf/f3e86fb8-d0c3-a8ac-a2c5-6aae553e71a3)|Telefónica|Spain|2018|
-|[Introducing Stanford's Human-Centered AI Initiative](https://hai.stanford.edu/news/introducing-stanfords-human-centered-ai-initiative)|Stanford Institute for Human-Centered Artificial Intelligence|USA|2018|
-|[Sony Group AI Ethics Guidelines](https://www.sony.com/en/SonyInfo/sony_ai/responsible_ai.html)|Sony|Japan|2018|
-|[AI Principles & Ethics](https://www.smartdubai.ae/initiatives/ai-principles-ethics)|Smart Dubai|UAE|2018|
-|[SAP’s Guiding Principles for Artificial Intelligence](https://www.sap.com/documents/2018/09/940c6047-1c7d-0010-87a3-c30de2ffd8ff.html)|SAP|Germany|2018|
-|[The Ethics of Code: Developing AI for Business with Five Core Principles](https://www.itworldcanada.com/ai/wp-content/uploads/2018/08/business-builders-ethics-of-code-1.pdf)|Sage|UK|2018|
-|[Privacy and Freedom of Expression in the Age of Artificial Intelligence](https://privacyinternational.org/sites/default/files/2018-04/Privacy%20and%20Freedom%20of%20Expression%20%20In%20the%20Age%20of%20Artificial%20Intelligence.pdf)|Privacy International|UK|2018|
-|[Discussion Paper on Artificial Intelligence (AI) and Personal Data — Fostering Responsible Development and Adoption of AI](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/Discussion-Paper-on-AI-and-PD---050618.pdf?la=en)|Personal Data Protection Commission Singapore|Singapore|2018|
-|[Tenets](https://www.partnershiponai.org/tenets/)|Partnership on AI|USA|2018|
-|[OpenAI Charter](https://openai.com/charter/)|OpenAI|USA|2018|
-|[OP Financial Group's Ethical Guidelines for Artificial Intelligence](http://www.ethicscodescollection.org/detail/e054e805-117c-4500-899d-4e8b74bb62eb)|OP Group|Finland|2018|
-|[Discussion Paper: National Strategy for Artificial Intelligence](https://niti.gov.in/writereaddata/files/document_publication/NationalStrategy-for-AI-Discussion-Paper.pdf)|National Institution for Transforming India (NITI Aayog)|India|2018|
-|[Draft AI Utilization Principles](https://www.soumu.go.jp/main_content/000581310.pdf)|Ministry of Internal Affair and Communications of Japan, The Conference toward AI Network Society|Japan|2018|
-|[Work in the Age of Artificial Intelligence: Four Perspectives on the Economy, Employment, Skills and Ethics](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160980/TEMjul_21_2018_Work_in_the_age.pdf?sequence=1&isAllowed=y)|Ministry of Economic Affairs and Employment|Finland|2018|
-|[Responsible Bots: 10 Guidelines for Developers of Conversational AI](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Bot_Guidelines_Nov_2018.pdf)|Microsoft|USA|2018|
-|[Charlevoix Common Vision for the Future of Artificial Intelligence](https://www.mofa.go.jp/files/000373837.pdf)|Leaders of the G7|International|2018|
-|[Kakao Algorithm Ethics](https://www.kakaocorp.com/page/responsible/detail/algorithm?lang=ENG)|Kakao|South Korea|2018|
-|[Declaration on Ethics and Data Protection in Artificial Intelligence](http://globalprivacyassembly.org/wp-content/uploads/2018/10/20180922_ICDPPC-40th_AI-Declaration_ADOPTED.pdf)|International Conference of Data Protection and Privacy Commissioners (ICDPPC)|International|2018|
-|[Intel’s AI Privacy Policy White Paper: Protecting Individuals’ Privacy and Data in the Artificial Intelligence World](https://www.intel.com/content/www/us/en/artificial-intelligence/solutions/ai-privacy-policy-white-paper.html)|Intel Corporation|USA|2018|
-|[Business Ethics and Artificial Intelligence](https://www.ibe.org.uk/uploads/assets/5f167681-e05f-4fae-ae1bef7699625a0d/ibebriefing58businessethicsandartificialintelligence.pdf)|Institute of Business Ethics (IBE)|UK|2018|
-|[IBM’s Principles for Trust and Transparency](https://www.ibm.com/blogs/policy/trust-principles/)|IBM|USA|2018|
-|[Everyday Ethics for Artificial Intelligence](https://www.ibm.com/design/ai/ethics/everyday-ethics/)|IBM|USA|2018|
-|[Responsible AI – Key Themes, Concerns & Recommendations for European Research and Innovation](https://futurium.ec.europa.eu/en/european-ai-alliance/open-library/responsible-ai-key-themes-concerns-recommendations-european-research-and-innovation)|HUB4NGI|EU|2018|
-|[Responsible use of artificial intelligence (AI)](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai.html)|Government of Canada|Canada|2018|
-|[Artificial Intelligence at Google: Our Principles](https://ai.google/principles/)|Google|USA|2018|
-|[GE Healthcare AI Principles](https://www.gehealthcare.com/article/ethics-in-healthcare-arent-new-but-their-application-has-never-been-more-important/?utm_source=twitter.com&utm_medium=GESocial&utm_content=&utm_campaign=AI+Principles)|GE Healthcare|USA|2018|
-|[The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation](https://arxiv.org/ftp/arxiv/papers/1802/1802.07228.pdf)|Future of Humanity Institute; University of Oxford; Centre for the Study of Existential Risk; University  of Cambridge; Center for a New American Security; Electronic Frontier Foundation; OpenAI|International|2018|
-|[Ethical, Social, and Political Challenges of Artificial Intelligence in Health](https://wellcome.org/sites/default/files/ai-in-health-ethical-social-political-challenges.pdf)|Future Advocacy|UK|2018|
-|[Towards a Digital Ethics](https://edps.europa.eu/sites/edp/files/publication/18-01-25_eag_report_en.pdf)|European Data Protection Supervisor & Ethics Advisory Group|EU|2018|
-|[Artificial Intelligence: A European Perspective](https://publications.jrc.ec.europa.eu/repository/handle/JRC113826)|European Commission, Joint Research Centre|EU|2018|
-|[Statement on Artificial Intelligence, Robotics and ‘Autonomous’ Systems](https://www.unapcict.org/sites/default/files/2019-01/EC_AI-%20Robotics-%20and%20Autonomous%20Systems.pdf)|European Commission, European Group on Ethics in Science and New Technologies|EU|2018|
-|[AI Guidelines](https://www.telekom.com/en/company/digital-responsibility/details/artificial-intelligence-ai-guideline-524366)|Deutsche Telekom|Germany|2018|
-|[Data Ethics - Principles and Guidelines for Companies, Authorities & Organisations](https://dataethics.eu/data-ethics-principles/)|DataEthics.eu|Denmark |2018|
-|[Governing Artificial Intelligence: Upholding Human Rights & Dignity](https://datasociety.net/library/governing-artificial-intelligence/)|Data & Society|USA|2018|
-|[European Ethical Charter on the Use of Artificial Intelligence in Judicial Systems and Their Environment](https://rm.coe.int/ethical-charter-en-for-publication-4-december-2018/16808f699c)|Council of Europe: European Commission for the Efficiency of Justice (CEPEJ)|EU|2018|
-|[The Toronto Declaration: Protecting the Right to Equality and Non-discrimination in Machine Learning Systems](https://www.torontodeclaration.org/#:~:text=The%20Toronto%20Declaration,-Protecting%20the%20right&text=It%20calls%20on%20governments%20and,to%20equality%20and%20non%2Ddiscrimination.&text=Read%20the%20Declaration%20in%20English%2C%20French%2C%20Arabic%20and%20Simplified%20Chinese.)|Amnesty International; Access Now|International|2018|
-|[People’s Guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai)|Allied Media Group|USA|2018|
-|[AI4People-An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations](https://www.eismd.eu/wp-content/uploads/2019/02/Ethical-Framework-for-a-Good-AI-Society.pdf)|AI4People|EU|2018|
-|[Algorithmic Impact Assessments: A Practical Framework for Public Agency Accountability](https://ainowinstitute.org/aiareport2018.pdf)|AI Now Institute|USA|2018|
-|[AI Now 2018 Report](https://ainowinstitute.org/AI_Now_2018_Report.pdf)|AI Now Institute|USA|2018|
-|[For a Meaningful Artificial Intelligence: Towards a French and European Strategy](https://knowledge4policy.ec.europa.eu/publication/meaningful-artificial-intelligence-towards-french-european-strategy_en)|AI for Humanity |France|2018|
-|[Top 10 Principles for Ethical Artificial Intelligence](http://www.thefutureworldofwork.org/opinions/10-principles-for-ethical-ai/)|UNI Global Union|Switzerland|2017|
-|[Machine Learning: The Power and Promise of Computers that Learn by Example](https://royalsociety.org/~/media/policy/projects/machine-learning/publications/machine-learning-report.pdf)|The Royal Society|UK|2017|
-|[Human Rights in the Robot Age: Challenges arising from the use of robotics, artificial intelligence, and virtual and augmented reality](https://www.rathenau.nl/en/digitale-samenleving/human-rights-robot-age)|The Rathenau Instituut|Netherlands|2017|
-|[The Japanese Society for Artificial Intelligence Ethical Guidelines](http://ai-elsi.org/archives/514)|The Japanese Society for Artificial Intelligence (JSAI)|Japan|2017|
-|[Principles for the Governance of AI](https://thefuturesociety.org/2017/07/15/principles-law-and-society-initiative/)|The Future Society|USA|2017|
-|[Ethical Principles for Artificial Intelligence and Data Analytics](https://history.siia.net/Portals/0/pdf/Policy/Ethical%20Principles%20for%20Artificial%20Intelligence%20and%20Data%20Analytics%20SIIA%20Issue%20Brief.pdf?ver=2017-11-06-160346-990)|Software & Information Industry Association (SIIA)|USA|2017|
-|[Accelerating innovation - How to build trust and confidence in AI](https://www.pwc.com/sg/en/publications/assets/ra-accelerating-innovation-build-trust-confidence-in-ai.pdf)|PricewaterhouseCoopers|UK|2017|
-|[Draft AI R&D Guidelines for International Discussions](https://www.soumu.go.jp/main_content/000507517.pdf)|Ministry of Internal Affair and Communications of Japan, The Conference toward AI Network Society|Japan|2017|
-|[Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society: Managing the Fourth Industrial Revolution](https://k-erc.eu/wp-content/uploads/2017/12/Master-Plan-for-the-intelligent-information-society.pdf)|Minister of Science, ICT and Future Planning (MSIP)|South Korea|2017|
-|[Microsoft AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6)|Microsoft|USA|2017|
-|[Artificial Intelligence and Machine Learning: Policy Paper](https://pdf4pro.com/download/artificial-intelligence-and-machine-learning-policy-paper-3fec9e.html)|Internet Society|USA|2017|
-|[Artificial Intelligence: The Public Policy Opportunity](https://blogs.intel.com/policy/files/2017/10/Intel-Artificial-Intelligence-Public-Policy-White-Paper-2017.pdf)|Intel Corporation|USA|2017|
-|[ITI AI Policy Principles](https://www.itic.org/public-policy/ITIAIPolicyPrinciplesFINAL.pdf)|Information Technology Industry Council (ITI)|USA|2017|
-|[AI Policy Principles](https://www.itic.org/dotAsset/50ed66d5-404d-40bb-a8ae-9eeeef55aa76.pdf)|Information Technology Industry Council (ITI)|USA|2017|
-|[Big Data, Artificial Intelligence, Machine Learning and Data Protection](https://rcn.fpf.org/2017/08/28/big-data-artificial-intelligence-machine-learning-and-data-protection/)|Information Commissioner’s Office|UK|2017|
-|[Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 2](https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/other/ead_v2.pdf)|IEEE|USA|2017|
-|[Asilomar Principles](https://futureoflife.org/ai-principles/)|Future of Life Institute|USA|2017|
-|[How Can Humans Keep the Upper Hand? Report on the Ethical Matters Raised by AI Algorithms](https://iapp.org/media/pdf/resource_center/CNIL_AI.pdf)|French Data Protection Authority (CNIL)|France|2017|
-|[Ethics Commission: Automated and Connected Driving](https://www.bmvi.de/SharedDocs/EN/publications/report-ethics-commission-automated-and-connected-driving.pdf?__blob=publicationFile)|Federal Ministry of Transport and Digital Infrastructure|Germany|2017|
-|[Report with Recommendations to the Commission on Civil Law Rules on Robotics](https://www.europarl.europa.eu/doceo/document/A-8-2017-0005_EN.pdf)|European Parliament|EU|2017|
-|[Report of COMEST on Robotics Ethics](https://unescoblob.blob.core.windows.net/pdf/UploadCKEditor/REPORT%20OF%20COMEST%20ON%20ROBOTICS%20ETHICS%2014.09.17.pdf)|COMEST/UNESCO|International|2017|
-|[Statement on Algorithmic Transparency and Accountability](https://www.acm.org/binaries/content/assets/public-policy/2017_joint_statement_algorithms.pdf)|Association for Computing Machinery (ACM)|USA|2017|
-|[Ethics and algorithmic processes for decision making and decision support](https://algorithmwatch.org/en/ethics-and-algorithmic-processes-for-decision-making-and-decision-support/)|AlgorithmWatch |Germany|2017|
-|[AI Now 2017 Report](https://ainowinstitute.org/AI_Now_2017_Report.pdf)|AI Now Institute|USA|2017|
-|[Report on Artificial Intelligence and Human Society (Unofficial translation)](https://www8.cao.go.jp/cstp/tyousakai/ai/summary/aisociety_en.pdf)|Advisory Board on Artificial Intelligence and Human Society (initiative of the Minister of State for Science and Technology Policy)|Japan|2017|
-|[Position on Robotics and Artificial Intelligence](https://juliareda.eu/wp-content/uploads/2017/02/Green-Digital-Working-Group-Position-on-Robotics-and-Artificial-Intelligence-2016-11-22.pdf)|The Greens (Green Working Group Robots) European Free Alliance|EU|2016|
-|[The National Artificial Intelligence Research and Development Strategic Plan](https://www.nitrd.gov/pubs/national_ai_rd_strategic_plan.pdf)|National Science and Technology Council; Networking and Information Technology Research and Development Subcommittee|USA|2016|
-|[Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 1](https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/other/ead_v1.pdf)|IEEE|USA|2016|
-|[Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)|Fairness, Accountability, and Transparency in Machine Learning (FAT/ML)|N/A|2016|
-|[Preparing for the Future of Artificial Intelligence](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)|Executive Office of the President; National Science and Technology Council; Committee on Technology|USA|2016|
-|[The AI Now Report: The Social and Economic Implications of Artificial Intelligence Technologies in the Near-Term](https://ainowinstitute.org/AI_Now_2016_Report.pdf)|AI Now Institute|USA|2016|
-|[Universal Principles of Data Ethics](http://www.ethicscodescollection.org/detail/603bdf83-62a2-4725-8dd4-e6cf350d5228)|Accenture|Ireland|2016|
-|[Unified Ethical Frame for Big Data Analysis: IAF Big Data Ethics Initiative, Part A](https://bigdata.fpf.org/wp-content/uploads/2015/11/IAF-Unified-Ethical-Frame-for-Big-Data-Analysis.pdf)|The Information Accountability Foundation|USA|2015|
-|[Ethics Policy](https://www.iiim.is/ethics-policy/)|Icelandic Institute for Intelligent Machines (IIIM)|Iceland|2015|
-
+## Ethical Guidelines for AI (Name of document, Issuer, Year.)
+-	[Recommendation on the Ethics of Artificial Intelligence](https://en.unesco.org/artificial-intelligence/ethics ), UNESCO, 2021.
+-	[A guide to good practice for digital and data-driven health technologies](https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology), Government of United Kingdom, 2021.
+-	[Data Ethics Impact Assessment](https://dataethics.eu/wp-content/uploads/dataethics-impact-assessment-2021.pdf), DataEthics.eu, 2021.
+-	[Responsible AI: From Principles to Practice](https://www.accenture.com/us-en/insights/artificial-intelligence/responsible-ai-principles-practice), Accenture, 2021.
+-	[Ethical Principles for Artificial Intelligence](https://www.ai.mil/docs/Ethical_Principles_for_Artificial_Intelligence.pdf), U.S. Department of Defense, 2020.
+-	[Turkcell Artificial Intelligence Principles](https://www.turkcell.com.tr/en/aboutus/corporate-social-responsibility/turkcell-artificial-intelligence-principles-), Turkcell, 2020.
+-	[Guidance for Regulation of Artificial Intelligence Applications](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf), The White House Office of Science and Technology Policy (OSTP), United States, 2020.
+-	[Rome Call For AI Ethics](https://www.romecall.org/), The Pontifical Academy for Life, Microsoft, IBM, FAO, the Italian Ministry of Innovation, 2020.
+-	[OECD Principles on AI](https://www.oecd.org/going-digital/ai/principles/), The Organisation for Economic Co-operation and Development (OECD) , 2020.
+-	[A Framework For The Ethical Use Of Advanced Data Science Methods In The Humanitarian Sector](https://5f2cd2ba-741c-4b29-ae47-00a8291b1d3c.filesusr.com/ugd/d1cf5c_6af8feb771194453817d62c92cee2a21.pdf), The Humanitarian Data Science and Ethics Group (DSEG), 2020.
+-	[“ARCC”: An Ethical Framework for Artificial Intelligence](https://www.tisi.org/13747), Tencent Research Institute, 2020.
+-	[Code of Ethics](https://pocketconfidant.com/code-of-ethics/), PocketConfidant AI, 2020.
+-	[Model AI Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgmodelaigovframework2.pdf), Personal Data Protection Commission (PDPC), Singapore, 2020.
+-	[The Morals of Algorithms – A contribution to the ethics of AI systems](https://www.nxp.com/docs/en/white-paper/AI-ETHICAL-FRAMEWORK-WP.pdf), NXP Semiconductors, 2020.
+-	[Ethics Framework ](https://www.migarage.ai/ethics/ethics-framework/), Machine Intelligence Garage’s Ethics Committee, 2020.
+-	[Ethical Principles](https://koahealth.com/legal/ethical-principles), Koa Health, 2020.
+-	[Responsible AI: A Roadmap For The Enterprise](https://integrate.ai/resources/responsible-ai/), Integrate.AI, 2020.
+-	[Advancing AI ethics beyond compliance - From principles to practice](https://www.ibm.com/thought-leadership/institute-business-value/report/ai-ethics), IBM, 2020.
+-	[Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment), High-Level Expert Group on Artificial Intelligence (AI HLEG) , 2020.
+-	[Data Ethics Framework](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923108/Data_Ethics_Framework_2020.pdf), Government Digital Service, 2020.
+-	[White Paper on Artificial Intelligence: a European approach to excellence and trust](https://ec.europa.eu/info/publications/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en), European Commission , 2020.
+-	[White Paper on Data Ethics in Public Procurement of AI-based Services and Solutions](https://dataethics.eu/wp-content/uploads/dataethics-whitepaper-april-2020.pdf), DataEthics.eu, 2020.
+-	[Bosch code of ethics for AI](https://www.bosch.com/stories/ethical-guidelines-for-artificial-intelligence/), Bosch, 2020.
+-	[Seven principles for AI: BMW Group sets out code of ethics for the use of artificial intelligence](https://www.press.bmwgroup.com/global/article/detail/T0318411EN/seven-principles-for-ai:-bmw-group-sets-out-code-of-ethics-for-the-use-of-artificial-intelligence?language=en), BMW, 2020.
+-	[Using artificial intelligence to make decisions: Addressing the problem of algorithmic bias](https://www.infogovanz.com/ai-ethics/using-artificial-intelligence-to-make-decisions-addressing-the-problem-of-algorithmic-bias/), Australian Human Rights Commission, 2020.
+-	[AI4People's 7 AI Global Frameworks](https://ai4people.eu/wp-content/pdf/AI4People7AIGlobalFrameworks.pdf), AI4People, 2020.
+-	[From Principles to Practice – An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/en), AI Ethics Impact Group (AIEI Group), 2020.
+-	[Ethical Application of Artificial Intelligence Framework ](https://www.actiac.org/act-iac-white-paper-ethical-application-ai-framework), ACT-IAC Emerging Technology COI, 2020.
+-	[10 Principles of Responsible AI](https://womenleadinginai.org/wp-content/uploads/2019/02/WLiAI-Report-2019.pdf), Women Leading in AI, 2019.
+-	[US Chamber of Commerce: Principles on Artificial Intelligence](https://iapp.org/media/pdf/resource_center/chamber_ai_principles_-_general.pdf), The U.S. Chamber of Commerce, 2019.
+-	[Understanding Artificial Intelligence Ethics and Safety](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf), The Alan Turing Institute, 2019.
+-	[Guiding Principles on Trusted AI Ethics](https://www.teliacompany.com/globalassets/telia-company/documents/about-telia-company/public-policy/2018/guiding-principles-on-trusted-ai-ethics.pdf), Telia Company, 2019.
+-	[Dutch Artificial Intelligence Manifesto](http://ii.tudelft.nl/bnvki/wp-content/uploads/2019/09/Dutch-AI-Manifesto-2019.pdf), Special Interest Group on Artificial Intelligence (SIGAI), ICT Platform Netherlands (IPN), 2019.
+-	[Principles for AI Ethics](https://research.samsung.com/artificial-intelligence), Samsung, 2019.
+-	[AI Ethics](https://einstein.ai/ethics), Salesforce, 2019.
+-	[Artificial Intelligence (AI) in Health](https://www.aomrc.org.uk/wp-content/uploads/2019/01/Artificial_intelligence_in_healthcare_0119.pdf), Royal College of Physicians, 2019.
+-	[Decree of the President of the Russian Federation on the Development of Artificial Intelligence in the Russian Federation](https://cset.georgetown.edu/wp-content/uploads/Decree-of-the-President-of-the-Russian-Federation-on-the-Development-of-Artificial-Intelligence-in-the-Russian-Federation-.pdf), Office of the President of the Russian Federation, 2019.
+-	[Governance Principles for a New Generation of Artificial Intelligence: Develop Responsible Artificial Intelligence 《新一代人工智能治理原则——发展负责任的人工智能》](https://www.newamerica.org/cybersecurity-initiative/digichina/blog/translation-chinese-expert-group-offers-governance-principles-responsible-ai/), National New Generation Artificial Intelligence Governance Expert Committee, China’s Ministry of Science and Technology, 2019.
+-	[MorphL AI Guiding Principles](https://morphl.io/ai-principles.html), MorphL, 2019.
+-	[Principles to Promote Fairness, Ethics, Accountability and Transparency (FEAT) in the Use of AI & Data Analytics in Singapore’s Financial Sector](https://www.mas.gov.sg/~/media/MAS/News%20and%20Publications/Monographs%20and%20Information%20Papers/FEAT%20Principles%20Final.pdf), Monetary Authority of Singapore, 2019.
+-	[AI Application Criteria 人工智能应用准则](https://megvii.com/news_detail/id/60), MEGVII, 2019.
+-	[Social Principles of Human centric AI](https://stip.oecd.org/stip/policy-initiatives/2019%2Fdata%2FpolicyInitiatives%2F24341), Integrated Innovation Strategy Promotion Council, 2019.
+-	[Ethical Aspects of Autonomous and Intelligent Systems](http://globalpolicy.ieee.org/wp-content/uploads/2019/06/IEEE19002.pdf), IEEE , 2019.
+-	[Policy and investment recommendations for trustworthy Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/library/policy-and-investment-recommendations-trustworthy-artificial-intelligence), High-Level Expert Group on AI (AI HLEG), 2019.
+-	[G20 AI Principles](https://www.g20-insights.org/wp-content/uploads/2019/07/G20-Japan-AI-Principles.pdf), G20 Ministerial Meeting on Trade and Digital Economy, 2019.
+-	[A governance framework for algorithmic accountability and transparency](https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624262/EPRS_STU(2019)624262_EN.pdf), European Parliamentary Research Service, 2019.
+-	[Ethics guidelines for trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), European Commission High Level Expert Group on AI, 2019.
+-	[Digia’s ethical principles for utilising artificial intelligence](https://digia.com/en/actual/news/digias-ethical-principles-for-utilising-artificial-intelligence-published/), Digia, 2019.
+-	[AI Ethics: The next big thing in Government](https://www2.deloitte.com/xe/en/pages/about-deloitte/articles/secure-benefits-ai-government-society.html..html), Deloitte, 2019.
+-	[DeepMind Ethics & Society Themes](https://deepmind.com/about/ethics-and-society), DeepMind Ethics & Society, 2019.
+-	[National Strategy for Artificial Intelligence](https://eng.em.dk/media/13081/305755-gb-version_4k.pdf), Danish Government, 2019.
+-	[Joint Pledge on Artificial Intelligence Industry Self-Discipline (Draft for Comment) 人工智能行业自律公约 （征求意见稿）](https://www.newamerica.org/cybersecurity-initiative/digichina/blog/translation-chinese-ai-alliance-drafts-self-discipline-joint-pledge/), China's Artificial Intelligence Industry Alliance (AIIA), 2019.
+-	[Bejing AI Principles](https://www.baai.ac.cn/news/beijing-ai-principles-en.html), Bejing Academy of Artificial Intelligence, 2019.
+-	[AI Ethics Principles](https://www.industry.gov.au/data-and-publications/building-australias-artificial-intelligence-capability/ai-ethics-framework/ai-ethics-principles), Australian Government Department of Industry, Innovation and Science, 2019.
+-	[Artificial Intelligence: Australia’s Ethics Framework (A Discussion Paper)](https://consult.industry.gov.au/strategic-policy/artificial-intelligence-ethics-framework/), Australian Government Department of Industry Innovation and Science, 2019.
+-	[Artificial Intelligence at AT&T: Our Guiding Principles](https://about.att.com/innovationblog/2019/05/our_guiding_principles.html), AT&T , 2019.
+-	[Ethics of AI in Radiology: European and North American Multisociety Statement](https://pubs.rsna.org/doi/10.1148/radiol.2019191586), American College of Radiology; European Society of Radiology; Radiology Society of North America; Society for Imaging Informatics in Medicine; European Society of Medical Imaging Informatics; Canadian Association of Radiologists; American Association of Physicists in Medicine, 2019.
+-	[On Good AI Governance: 14 Priority Actions, a S.M.A.R.T. Model of Governance, and a Regulatory Toolbox](https://www.eismd.eu/wp-content/uploads/2019/11/AI4Peoples-Report-on-Good-AI-Governance_compressed.pdf), AI4People, 2019.
+-	[Responsible AI and Robotics: An Ethical Framework](https://www.accenture.com/gb-en/company-responsible-ai-robotics), Accenture, 2019.
+-	[White Paper: How to Prevent Discriminatory Outcomes in Machine Learning](https://www.unicef.org/innovation/reports/how-prevent-discriminatory-outcomes-machine-learning), WEF, Global Future Council on Human Rights 2016-2018, 2018.
+-	[Montréal Declaration: Responsible AI](https://monoskop.org/images/b/b2/Report_Montreal_Declaration_for_a_Responsible_Development_of_Artificial_Intelligence_2018.pdf), Université de Montréal (University of Montreal), 2018.
+-	[Unity’s Guiding Principles for Ethical AI](https://blogs.unity3d.com/2018/11/28/introducing-unitys-guiding-principles-for-ethical-ai/), Unity Technologies, 2018.
+-	[White Paper – Building Ethics into Privacy Frameworks for Big Data and AI](https://iapp.org/resources/article/building-ethics-into-privacy-frameworks-for-big-data-and-ai/), UN Global Pulse and IAPP, 2018.
+-	[AI in the UK: Ready, Willing and Able?](https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/100.pdf), UK House of Lords, Select Committee on Artificial Intelligence, 2018.
+-	[Initial Code of Conduct for Data-Driven Health and Care Technology](http://allcatsrgrey.org.uk/wp/download/informatics/www_gov_uk_government_publications_code_of_conduct_for_data_.pdf), UK Department of Health & Social Care, 2018.
+-	[Federal Data Strategy Framework](https://strategy.data.gov/overview/), U.S. Government, 2018.
+-	[Tieto’s AI Ethics Guidelines](https://www.tietoevry.com/contentassets/b097de43d84d4c84832f1fff2cb6a30d/tieto-s-ai-ethics-guidelines.pdf), Tieto, 2018.
+-	[Universal Guidelines for Artificial Intelligence](https://thepublicvoice.org/ai-universal-guidelines/), The Public Voice, 2018.
+-	[Artificial Intelligence and Privacy](https://www.datatilsynet.no/globalassets/global/english/ai-and-privacy.pdf), The Norwegian Data Protection Authority, 2018.
+-	[The Responsible Machine Learning Principles](https://ethical.institute/principles.html), The Institute for Ethical AI & Machine Learning, 2018.
+-	[Toward a G20 Framework for Artificial Intelligence in the Workplace](https://www.cigionline.org/publications/toward-g20-framework-artificial-intelligence-workplace/), The Centre for International Governance Innovation (CIGI), 2018.
+-	[AI Principles of Telefónica](https://www.telefonica.com/documents/364672/143939197/principios-ai-eng-2018.pdf/f3e86fb8-d0c3-a8ac-a2c5-6aae553e71a3), Telefónica, 2018.
+-	[Introducing Stanford's Human-Centered AI Initiative](https://hai.stanford.edu/news/introducing-stanfords-human-centered-ai-initiative), Stanford Institute for Human-Centered Artificial Intelligence, 2018.
+-	[Sony Group AI Ethics Guidelines](https://www.sony.com/en/SonyInfo/sony_ai/responsible_ai.html), Sony, 2018.
+-	[AI Principles & Ethics](https://www.smartdubai.ae/initiatives/ai-principles-ethics), Smart Dubai, 2018.
+-	[SAP’s Guiding Principles for Artificial Intelligence](https://www.sap.com/documents/2018/09/940c6047-1c7d-0010-87a3-c30de2ffd8ff.html), SAP, 2018.
+-	[The Ethics of Code: Developing AI for Business with Five Core Principles](https://www.itworldcanada.com/ai/wp-content/uploads/2018/08/business-builders-ethics-of-code-1.pdf), Sage, 2018.
+-	[Privacy and Freedom of Expression in the Age of Artificial Intelligence](https://privacyinternational.org/sites/default/files/2018-04/Privacy%20and%20Freedom%20of%20Expression%20%20In%20the%20Age%20of%20Artificial%20Intelligence.pdf), Privacy International, 2018.
+-	[Discussion Paper on Artificial Intelligence (AI) and Personal Data — Fostering Responsible Development and Adoption of AI](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/Discussion-Paper-on-AI-and-PD---050618.pdf?la=en), Personal Data Protection Commission Singapore, 2018.
+-	[Tenets](https://www.partnershiponai.org/tenets/), Partnership on AI, 2018.
+-	[OpenAI Charter](https://openai.com/charter/), OpenAI, 2018.
+-	[OP Financial Group's Ethical Guidelines for Artificial Intelligence](http://www.ethicscodescollection.org/detail/e054e805-117c-4500-899d-4e8b74bb62eb), OP Group, 2018.
+-	[Discussion Paper: National Strategy for Artificial Intelligence](https://niti.gov.in/writereaddata/files/document_publication/NationalStrategy-for-AI-Discussion-Paper.pdf), National Institution for Transforming India (NITI Aayog), 2018.
+-	[Draft AI Utilization Principles](https://www.soumu.go.jp/main_content/000581310.pdf), Ministry of Internal Affair and Communications of Japan, The Conference toward AI Network Society, 2018.
+-	[Work in the Age of Artificial Intelligence: Four Perspectives on the Economy, Employment, Skills and Ethics](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160980/TEMjul_21_2018_Work_in_the_age.pdf?sequence=1&isAllowed=y), Ministry of Economic Affairs and Employment, 2018.
+-	[Responsible Bots: 10 Guidelines for Developers of Conversational AI](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Bot_Guidelines_Nov_2018.pdf), Microsoft, 2018.
+-	[Charlevoix Common Vision for the Future of Artificial Intelligence](https://www.mofa.go.jp/files/000373837.pdf), Leaders of the G7, 2018.
+-	[Kakao Algorithm Ethics](https://www.kakaocorp.com/page/responsible/detail/algorithm?lang=ENG), Kakao, 2018.
+-	[Declaration on Ethics and Data Protection in Artificial Intelligence](http://globalprivacyassembly.org/wp-content/uploads/2018/10/20180922_ICDPPC-40th_AI-Declaration_ADOPTED.pdf), International Conference of Data Protection and Privacy Commissioners (ICDPPC), 2018.
+-	[Intel’s AI Privacy Policy White Paper: Protecting Individuals’ Privacy and Data in the Artificial Intelligence World](https://www.intel.com/content/www/us/en/artificial-intelligence/solutions/ai-privacy-policy-white-paper.html), Intel Corporation, 2018.
+-	[Business Ethics and Artificial Intelligence](https://www.ibe.org.uk/uploads/assets/5f167681-e05f-4fae-ae1bef7699625a0d/ibebriefing58businessethicsandartificialintelligence.pdf), Institute of Business Ethics (IBE), 2018.
+-	[IBM’s Principles for Trust and Transparency](https://www.ibm.com/blogs/policy/trust-principles/), IBM, 2018.
+-	[Everyday Ethics for Artificial Intelligence](https://www.ibm.com/design/ai/ethics/everyday-ethics/), IBM, 2018.
+-	[Responsible AI – Key Themes, Concerns & Recommendations for European Research and Innovation](https://futurium.ec.europa.eu/en/european-ai-alliance/open-library/responsible-ai-key-themes-concerns-recommendations-european-research-and-innovation), HUB4NGI, 2018.
+-	[Responsible use of artificial intelligence (AI)](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai.html), Government of Canada, 2018.
+-	[Artificial Intelligence at Google: Our Principles](https://ai.google/principles/), Google, 2018.
+-	[GE Healthcare AI Principles](https://www.gehealthcare.com/article/ethics-in-healthcare-arent-new-but-their-application-has-never-been-more-important/?utm_source=twitter.com&utm_medium=GESocial&utm_content=&utm_campaign=AI+Principles), GE Healthcare, 2018.
+-	[The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation](https://arxiv.org/ftp/arxiv/papers/1802/1802.07228.pdf), Future of Humanity Institute; University of Oxford; Centre for the Study of Existential Risk; University  of Cambridge; Center for a New American Security; Electronic Frontier Foundation; OpenAI, 2018.
+-	[Ethical, Social, and Political Challenges of Artificial Intelligence in Health](https://wellcome.org/sites/default/files/ai-in-health-ethical-social-political-challenges.pdf), Future Advocacy, 2018.
+-	[Towards a Digital Ethics](https://edps.europa.eu/sites/edp/files/publication/18-01-25_eag_report_en.pdf), European Data Protection Supervisor & Ethics Advisory Group, 2018.
+-	[Artificial Intelligence: A European Perspective](https://publications.jrc.ec.europa.eu/repository/handle/JRC113826), European Commission, Joint Research Centre, 2018.
+-	[Statement on Artificial Intelligence, Robotics and ‘Autonomous’ Systems](https://www.unapcict.org/sites/default/files/2019-01/EC_AI-%20Robotics-%20and%20Autonomous%20Systems.pdf), European Commission, European Group on Ethics in Science and New Technologies, 2018.
+-	[AI Guidelines](https://www.telekom.com/en/company/digital-responsibility/details/artificial-intelligence-ai-guideline-524366), Deutsche Telekom, 2018.
+-	[Data Ethics - Principles and Guidelines for Companies, Authorities & Organisations](https://dataethics.eu/data-ethics-principles/), DataEthics.eu, 2018.
+-	[Governing Artificial Intelligence: Upholding Human Rights & Dignity](https://datasociety.net/library/governing-artificial-intelligence/), Data & Society, 2018.
+-	[European Ethical Charter on the Use of Artificial Intelligence in Judicial Systems and Their Environment](https://rm.coe.int/ethical-charter-en-for-publication-4-december-2018/16808f699c), Council of Europe: European Commission for the Efficiency of Justice (CEPEJ), 2018.
+-	[The Toronto Declaration: Protecting the Right to Equality and Non-discrimination in Machine Learning Systems](https://www.torontodeclaration.org/#:~:text=The%20Toronto%20Declaration,-Protecting%20the%20right&text=It%20calls%20on%20governments%20and,to%20equality%20and%20non%2Ddiscrimination.&text=Read%20the%20Declaration%20in%20English%2C%20French%2C%20Arabic%20and%20Simplified%20Chinese.), Amnesty International; Access Now, 2018.
+-	[People’s Guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai), Allied Media Group, 2018.
+-	[AI4People-An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations](https://www.eismd.eu/wp-content/uploads/2019/02/Ethical-Framework-for-a-Good-AI-Society.pdf), AI4People, 2018.
+-	[Algorithmic Impact Assessments: A Practical Framework for Public Agency Accountability](https://ainowinstitute.org/aiareport2018.pdf), AI Now Institute, 2018.
+-	[AI Now 2018 Report](https://ainowinstitute.org/AI_Now_2018_Report.pdf), AI Now Institute, 2018.
+-	[For a Meaningful Artificial Intelligence: Towards a French and European Strategy](https://knowledge4policy.ec.europa.eu/publication/meaningful-artificial-intelligence-towards-french-european-strategy_en), AI for Humanity , 2018.
+-	[Top 10 Principles for Ethical Artificial Intelligence](http://www.thefutureworldofwork.org/opinions/10-principles-for-ethical-ai/), UNI Global Union, 2017.
+-	[Machine Learning: The Power and Promise of Computers that Learn by Example](https://royalsociety.org/~/media/policy/projects/machine-learning/publications/machine-learning-report.pdf), The Royal Society, 2017.
+-	[Human Rights in the Robot Age: Challenges arising from the use of robotics, artificial intelligence, and virtual and augmented reality](https://www.rathenau.nl/en/digitale-samenleving/human-rights-robot-age), The Rathenau Instituut, 2017.
+-	[The Japanese Society for Artificial Intelligence Ethical Guidelines](http://ai-elsi.org/archives/514), The Japanese Society for Artificial Intelligence (JSAI), 2017.
+-	[Principles for the Governance of AI](https://thefuturesociety.org/2017/07/15/principles-law-and-society-initiative/), The Future Society, 2017.
+-	[Ethical Principles for Artificial Intelligence and Data Analytics](https://history.siia.net/Portals/0/pdf/Policy/Ethical%20Principles%20for%20Artificial%20Intelligence%20and%20Data%20Analytics%20SIIA%20Issue%20Brief.pdf?ver=2017-11-06-160346-990), Software & Information Industry Association (SIIA), 2017.
+-	[Accelerating innovation - How to build trust and confidence in AI](https://www.pwc.com/sg/en/publications/assets/ra-accelerating-innovation-build-trust-confidence-in-ai.pdf), PricewaterhouseCoopers, 2017.
+-	[Draft AI R&D Guidelines for International Discussions](https://www.soumu.go.jp/main_content/000507517.pdf), Ministry of Internal Affair and Communications of Japan, The Conference toward AI Network Society, 2017.
+-	[Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society: Managing the Fourth Industrial Revolution](https://k-erc.eu/wp-content/uploads/2017/12/Master-Plan-for-the-intelligent-information-society.pdf), Minister of Science, ICT and Future Planning (MSIP), 2017.
+-	[Microsoft AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6), Microsoft, 2017.
+-	[Artificial Intelligence and Machine Learning: Policy Paper](https://pdf4pro.com/download/artificial-intelligence-and-machine-learning-policy-paper-3fec9e.html), Internet Society, 2017.
+-	[Artificial Intelligence: The Public Policy Opportunity](https://blogs.intel.com/policy/files/2017/10/Intel-Artificial-Intelligence-Public-Policy-White-Paper-2017.pdf), Intel Corporation, 2017.
+-	[ITI AI Policy Principles](https://www.itic.org/public-policy/ITIAIPolicyPrinciplesFINAL.pdf), Information Technology Industry Council (ITI), 2017.
+-	[AI Policy Principles](https://www.itic.org/dotAsset/50ed66d5-404d-40bb-a8ae-9eeeef55aa76.pdf), Information Technology Industry Council (ITI), 2017.
+-	[Big Data, Artificial Intelligence, Machine Learning and Data Protection](https://rcn.fpf.org/2017/08/28/big-data-artificial-intelligence-machine-learning-and-data-protection/), Information Commissioner’s Office, 2017.
+-	[Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 2](https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/other/ead_v2.pdf), IEEE, 2017.
+-	[Asilomar Principles](https://futureoflife.org/ai-principles/), Future of Life Institute, 2017.
+-	[How Can Humans Keep the Upper Hand? Report on the Ethical Matters Raised by AI Algorithms](https://iapp.org/media/pdf/resource_center/CNIL_AI.pdf), French Data Protection Authority (CNIL), 2017.
+-	[Ethics Commission: Automated and Connected Driving](https://www.bmvi.de/SharedDocs/EN/publications/report-ethics-commission-automated-and-connected-driving.pdf?__blob=publicationFile), Federal Ministry of Transport and Digital Infrastructure, 2017.
+-	[Report with Recommendations to the Commission on Civil Law Rules on Robotics](https://www.europarl.europa.eu/doceo/document/A-8-2017-0005_EN.pdf), European Parliament, 2017.
+-	[Report of COMEST on Robotics Ethics](https://unescoblob.blob.core.windows.net/pdf/UploadCKEditor/REPORT%20OF%20COMEST%20ON%20ROBOTICS%20ETHICS%2014.09.17.pdf), COMEST/UNESCO, 2017.
+-	[Statement on Algorithmic Transparency and Accountability](https://www.acm.org/binaries/content/assets/public-policy/2017_joint_statement_algorithms.pdf), Association for Computing Machinery (ACM), 2017.
+-	[Ethics and algorithmic processes for decision making and decision support](https://algorithmwatch.org/en/ethics-and-algorithmic-processes-for-decision-making-and-decision-support/), AlgorithmWatch , 2017.
+-	[AI Now 2017 Report](https://ainowinstitute.org/AI_Now_2017_Report.pdf), AI Now Institute, 2017.
+-	[Report on Artificial Intelligence and Human Society (Unofficial translation)](https://www8.cao.go.jp/cstp/tyousakai/ai/summary/aisociety_en.pdf), Advisory Board on Artificial Intelligence and Human Society (initiative of the Minister of State for Science and Technology Policy), 2017.
+-	[Position on Robotics and Artificial Intelligence](https://juliareda.eu/wp-content/uploads/2017/02/Green-Digital-Working-Group-Position-on-Robotics-and-Artificial-Intelligence-2016-11-22.pdf), The Greens (Green Working Group Robots) European Free Alliance, 2016.
+-	[The National Artificial Intelligence Research and Development Strategic Plan](https://www.nitrd.gov/pubs/national_ai_rd_strategic_plan.pdf), National Science and Technology Council; Networking and Information Technology Research and Development Subcommittee, 2016.
+-	[Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 1](https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/other/ead_v1.pdf), IEEE, 2016.
+-	[Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms), Fairness, Accountability, and Transparency in Machine Learning (FAT/ML), 2016.
+-	[Preparing for the Future of Artificial Intelligence](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf), Executive Office of the President; National Science and Technology Council; Committee on Technology, 2016.
+-	[The AI Now Report: The Social and Economic Implications of Artificial Intelligence Technologies in the Near-Term](https://ainowinstitute.org/AI_Now_2016_Report.pdf), AI Now Institute, 2016.
+-	[Universal Principles of Data Ethics](http://www.ethicscodescollection.org/detail/603bdf83-62a2-4725-8dd4-e6cf350d5228), Accenture, 2016.
+-	[Unified Ethical Frame for Big Data Analysis: IAF Big Data Ethics Initiative, Part A](https://bigdata.fpf.org/wp-content/uploads/2015/11/IAF-Unified-Ethical-Frame-for-Big-Data-Analysis.pdf), The Information Accountability Foundation, 2015.
+-	[Ethics Policy](https://www.iiim.is/ethics-policy/), Icelandic Institute for Intelligent Machines (IIIM), 2015.
+											
