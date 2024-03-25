@@ -272,7 +272,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 <br/>
 <br/>
 
-# 🗂️ Portfolio
+# Portfolio
 
 ## Ethical Guidelines for AI (Name of document, Issuer, Year.)
 -	[Recommendation on the Ethics of Artificial Intelligence](https://en.unesco.org/artificial-intelligence/ethics ), UNESCO, 2021.
