@@ -223,7 +223,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 <br/>
 <br/>
 
-# 🎖️ Honors and Awards
+# 🎖 Honors and Awards
 - Our paper “An Overview of Artificial Intelligence Ethics” was selected as the Excellent Science & Technology Academic Paper by the Shenzhen Association for Science and Technology (深圳市第二届优秀科技学术论文奖), 2022. 
 
 - Scholarship from China Scholarship Council (CSC) to pursue Ph.D. study, 2013-2017.
@@ -253,7 +253,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 <br/>
 <br/>
 
-# 🖥️ Professional Service
+# 💻 Professional Service
 -	Core member of the Artificial Intelligence Education Research Center, Southern University of Science and Technology ([南方科技大学人工智能教育研究中心](https://efuture.sustech.edu.cn/news/detail/744.html?lang=zh-cn)), since October 2023.
 
 -	Session Chair for the Neural Networks and Intelligent Algorithms session at the [International Conference on Neuromorphic Computing (ICNC2023)](http://icnc2023.org/), December 2023.
