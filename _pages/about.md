@@ -272,9 +272,9 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 <br/>
 <br/>
 
-# Portfolio
+# 🌐 Portfolio
 
-## Ethical Guidelines for AI (Name of document, Issuer, Year.)
+## Ethical Guidelines for AI (Name of document, Issuer, Year)
 -	[Recommendation on the Ethics of Artificial Intelligence](https://en.unesco.org/artificial-intelligence/ethics ), UNESCO, 2021.
 -	[A guide to good practice for digital and data-driven health technologies](https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology), Government of United Kingdom, 2021.
 -	[Data Ethics Impact Assessment](https://dataethics.eu/wp-content/uploads/dataethics-impact-assessment-2021.pdf), DataEthics.eu, 2021.
