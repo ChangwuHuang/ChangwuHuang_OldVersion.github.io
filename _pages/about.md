@@ -274,7 +274,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 
 # 🌐 Resources
 
-## Ethical Guidelines for AI (Name of document, Issuer, Year)
+## AI Ethics relevant documents (Name of document, Issuer, Year)
 -	[Recommendation on the Ethics of Artificial Intelligence](https://en.unesco.org/artificial-intelligence/ethics ), UNESCO, 2021.
 -	[A guide to good practice for digital and data-driven health technologies](https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology), Government of United Kingdom, 2021.
 -	[Data Ethics Impact Assessment](https://dataethics.eu/wp-content/uploads/dataethics-impact-assessment-2021.pdf), DataEthics.eu, 2021.
@@ -283,7 +283,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 -	[Turkcell Artificial Intelligence Principles](https://www.turkcell.com.tr/en/aboutus/corporate-social-responsibility/turkcell-artificial-intelligence-principles-), Turkcell, 2020.
 -	[Guidance for Regulation of Artificial Intelligence Applications](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf), The White House Office of Science and Technology Policy (OSTP), United States, 2020.
 -	[Rome Call For AI Ethics](https://www.romecall.org/), The Pontifical Academy for Life, Microsoft, IBM, FAO, the Italian Ministry of Innovation, 2020.
--	[OECD Principles on AI](https://www.oecd.org/going-digital/ai/principles/), The Organisation for Economic Co-operation and Development (OECD) , 2020.
+-	[OECD Principles on AI](https://www.oecd.org/going-digital/ai/principles/), The Organisation for Economic Co-operation and Development (OECD), 2020.
 -	[A Framework For The Ethical Use Of Advanced Data Science Methods In The Humanitarian Sector](https://5f2cd2ba-741c-4b29-ae47-00a8291b1d3c.filesusr.com/ugd/d1cf5c_6af8feb771194453817d62c92cee2a21.pdf), The Humanitarian Data Science and Ethics Group (DSEG), 2020.
 -	[“ARCC”: An Ethical Framework for Artificial Intelligence](https://www.tisi.org/13747), Tencent Research Institute, 2020.
 -	[Code of Ethics](https://pocketconfidant.com/code-of-ethics/), PocketConfidant AI, 2020.
@@ -293,9 +293,9 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 -	[Ethical Principles](https://koahealth.com/legal/ethical-principles), Koa Health, 2020.
 -	[Responsible AI: A Roadmap For The Enterprise](https://integrate.ai/resources/responsible-ai/), Integrate.AI, 2020.
 -	[Advancing AI ethics beyond compliance - From principles to practice](https://www.ibm.com/thought-leadership/institute-business-value/report/ai-ethics), IBM, 2020.
--	[Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment), High-Level Expert Group on Artificial Intelligence (AI HLEG) , 2020.
+-	[Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment), High-Level Expert Group on Artificial Intelligence (AI HLEG), 2020.
 -	[Data Ethics Framework](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923108/Data_Ethics_Framework_2020.pdf), Government Digital Service, 2020.
--	[White Paper on Artificial Intelligence: a European approach to excellence and trust](https://ec.europa.eu/info/publications/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en), European Commission , 2020.
+-	[White Paper on Artificial Intelligence: a European approach to excellence and trust](https://ec.europa.eu/info/publications/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en), European Commission, 2020.
 -	[White Paper on Data Ethics in Public Procurement of AI-based Services and Solutions](https://dataethics.eu/wp-content/uploads/dataethics-whitepaper-april-2020.pdf), DataEthics.eu, 2020.
 -	[Bosch code of ethics for AI](https://www.bosch.com/stories/ethical-guidelines-for-artificial-intelligence/), Bosch, 2020.
 -	[Seven principles for AI: BMW Group sets out code of ethics for the use of artificial intelligence](https://www.press.bmwgroup.com/global/article/detail/T0318411EN/seven-principles-for-ai:-bmw-group-sets-out-code-of-ethics-for-the-use-of-artificial-intelligence?language=en), BMW, 2020.
