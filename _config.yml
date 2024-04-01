@@ -9,7 +9,7 @@
 title                    : "Changwu HUANG"
 description              : "Research Associate Professor at Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech)."
 repository               : "ChangwuHuang/ChangwuHuang.github.io"
-google_scholar_stats_use_cdn : false #true
+google_scholar_stats_use_cdn : True #true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "changwu-huang"# e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0003-3685-2822"
   pinterest        :
