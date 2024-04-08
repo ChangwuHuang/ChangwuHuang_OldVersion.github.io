@@ -134,7 +134,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 
 
 ## Pulication List
--	L. Tan, **C. Huang∗**, and X. Yao, “A Concept-Based Local Interpretable Model-agnostic Explanation Approach for Deep Neural Networks in Image Classification,” 13th International Conference on Intelligent Information Processing (IIP20204), Accepted.
+-	L. Tan, **C. Huang∗**, and X. Yao, “[A Concept-Based Local Interpretable Model-agnostic Explanation Approach for Deep Neural Networks in Image Classification,](https://link.springer.com/chapter/10.1007/978-3-031-57919-6_9)” Intelligent Information Processing XII, pp. 119–133, 2024.
 -	Z. Wang, **C. Huang**, Y. Li, and X. Yao∗, “[Multi-objective Feature Attribution Explanation For Explainable Machine Learning,](https://dl.acm.org/doi/10.1145/3617380)” ACM Transactions on Evolutionary Learning and Optimization, vol. 4, no. 1, pp. 1–32, Feb. 2024.
 -	K. Wu, **C. Huang∗**, and X. Yao∗, “[Confidence Estimation Based on the Explanations of Model’s Predictions,](https://ieeexplore.ieee.org/document/10462812)” 2023 International Conference on Neuromorphic Computing (ICNC), Wuhan, China, 2023, pp. 414-423.
 -	**C. Huang**, Z. Zhang, B. Mao, and X. Yao∗, “[An Overview of Artificial Intelligence Ethics,](https://ieeexplore.ieee.org/document/9844014)” IEEE Transactions on Artificial Intelligence, vol. 4, no. 4, pp. 799-819, Aug. 2023. (Most Popular Article in IEEE TAI, over 23,221 views on IEEE Xplore)
