@@ -224,7 +224,9 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 <br/>
 
 # 🏆 Honors and Awards
-- Our paper “An Overview of Artificial Intelligence Ethics” was selected as the Excellent Science & Technology Academic Paper by the Shenzhen Association for Science and Technology (深圳市第二届优秀科技学术论文奖), 2022. 
+- Our paper “A Concept-Based Local Interpretable Model-agnostic Explanation Approach for Deep Neural Networks in Image Classification” achieved the **Best Student Paper Award** in 13th International Conference on Intelligent Information Processing (IIP 2024), 2024.
+
+- Our paper “An Overview of Artificial Intelligence Ethics” was selected as the **Excellent Science & Technology Academic Paper** by the Shenzhen Association for Science and Technology (深圳市第二届优秀科技学术论文奖), 2022. 
 
 - Scholarship from China Scholarship Council (CSC) to pursue Ph.D. study, 2013-2017.
 
