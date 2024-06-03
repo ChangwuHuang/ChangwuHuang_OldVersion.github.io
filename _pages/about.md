@@ -256,6 +256,10 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 <br/>
 
 # 💻 Professional Service
+-	Member of the First Medical Artificial Intelligence Ethics Committee of “Chinese Medical Ethics” (《中国医学伦理学》第一届医学人工智能伦理专委会委员), since May 2024.
+-	
+-	Chair of the Session on “Machine Learning”  at 13th IFIP International Conference on Intelligent Information Processing, Shenzhen, May 2024.
+-	
 -	Core member of the Artificial Intelligence Education Research Center, Southern University of Science and Technology ([南方科技大学人工智能教育研究中心](https://efuture.sustech.edu.cn/news/detail/744.html?lang=zh-cn)), since October 2023.
 
 -	Session Chair for the Neural Networks and Intelligent Algorithms session at the [International Conference on Neuromorphic Computing (ICNC2023)](http://icnc2023.org/), December 2023.
