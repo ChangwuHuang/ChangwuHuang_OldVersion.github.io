@@ -25,9 +25,9 @@ I am currently a Research Associate Professor in the [Department of Computer Sci
 
 Through my educational pursuits and professional experiences, I have cultivated a robust interdisciplinary research background. During my doctoral studies, I specialized in applying AI techniques (e.g., machine learning and evolutionary algorithms) to address engineering problems, particularly uncertainty analysis, material parameter identification, and fatigue damage analysis in mechanical engineering. Transitioning into my postdoctoral role from March 2018 to September 2020, I concentrated on the automatic algorithm configuration for AI algorithms, specifically for evolutionary algorithms and other intelligent optimization algorithms. Since late 2020, my research trajectory has evolved towards the areas of AI ethics and trustworthy AI, which are not only current global research trends but also pivotal future developmental directions of AI. At present, my research is centered on AI Ethics and Trustworthy AI, with a strong emphasis on essential ethical considerations including transparency, explainability, fairness, safety, and privacy. I have published more than 30 research papers with total <a href='https://scholar.google.com/citations?user=QRnmYfkAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>. 
 
-- **AI Ethics** is an emerging multidisciplinary research field that investigates ethical issues and societal impacts arising from the design, development, implementation, and use of AI technologies. My efforts span the exploration of Ethical Issues & Challenges in AI, Ethical Guidelines & Principles for AI, and AI Ethical Governance Practice. 
-- **Trustworthy AI** aims to develop AI systems that are aligned with ethical principles (such as transparency, fairness, privacy, safety, security, accountability, etc.), fostering trust from users and society in AI technologies. My research is centered on Explainable Machine Learning, Fairness-Aware Machine Learning, and Privacy-Preserving Machine Learning.
-- **Evolutionary Computation** is a computational methodology inspired by biological evolution and natural selection for addressing optimization and search problems. My research involves Surrogate-Assisted Evolutionary Optimization, Automatic Algorithm Configuration (Parameter Tuning), and Surrogate Modeling in engineering tasks (e.g., uncertainty analysis, fatigue damage analysis, material parameter identification). 
+- <font color=blue>**AI Ethics**</font> is an emerging multidisciplinary research field that investigates ethical issues and societal impacts arising from the design, development, implementation, and use of AI technologies. My efforts span the exploration of Ethical Issues & Challenges in AI, Ethical Guidelines & Principles for AI, and AI Ethical Governance Practice. 
+- <font color=blue>**Trustworthy AI**</font> aims to develop AI systems that are aligned with ethical principles (such as transparency, fairness, privacy, safety, security, accountability, etc.), fostering trust from users and society in AI technologies. My research is centered on Explainable Machine Learning, Fairness-Aware Machine Learning, and Privacy-Preserving Machine Learning.
+- <font color=blue>**Evolutionary Computation**</font> is a computational methodology inspired by biological evolution and natural selection for addressing optimization and search problems. My research involves Surrogate-Assisted Evolutionary Optimization, Automatic Algorithm Configuration (Parameter Tuning), and Surrogate Modeling in engineering tasks (e.g., uncertainty analysis, fatigue damage analysis, material parameter identification). 
 
 
 
@@ -134,10 +134,10 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 
 
 ## Pulication List
--	L. Tan, **C. Huang∗**, and X. Yao, “[A Concept-Based Local Interpretable Model-agnostic Explanation Approach for Deep Neural Networks in Image Classification,](https://link.springer.com/chapter/10.1007/978-3-031-57919-6_9)” Intelligent Information Processing XII, pp. 119–133, 2024.
+-	L. Tan, **C. Huang∗**, and X. Yao, “[A Concept-Based Local Interpretable Model-agnostic Explanation Approach for Deep Neural Networks in Image Classification,](https://link.springer.com/chapter/10.1007/978-3-031-57919-6_9)” Intelligent Information Processing XII, pp. 119-133, 2024.
 -	Z. Wang, **C. Huang**, Y. Li, and X. Yao∗, “[Multi-objective Feature Attribution Explanation For Explainable Machine Learning,](https://dl.acm.org/doi/10.1145/3617380)” ACM Transactions on Evolutionary Learning and Optimization, vol. 4, no. 1, pp. 1–32, Feb. 2024.
 -	K. Wu, **C. Huang∗**, and X. Yao∗, “[Confidence Estimation Based on the Explanations of Model’s Predictions,](https://ieeexplore.ieee.org/document/10462812)” 2023 International Conference on Neuromorphic Computing (ICNC), Wuhan, China, 2023, pp. 414-423.
--	**C. Huang**, Z. Zhang, B. Mao, and X. Yao∗, “[An Overview of Artificial Intelligence Ethics,](https://ieeexplore.ieee.org/document/9844014)” IEEE Transactions on Artificial Intelligence, vol. 4, no. 4, pp. 799-819, Aug. 2023. (Most Popular Article in IEEE TAI)
+-	**C. Huang**, Z. Zhang, B. Mao, and X. Yao∗, “[An Overview of Artificial Intelligence Ethics,](https://ieeexplore.ieee.org/document/9844014)” IEEE Transactions on Artificial Intelligence, vol. 4, no. 4, pp. 799-819, Aug. 2023. (<font color=blue>Most Popular Article in IEEE TAI</font>)
 -	Z. Yang, Z. Wang, **C. Huang∗**, and X. Yao, “[An Explainable Feature Selection Approach for Fair Machine Learning,](https://link.springer.com/chapter/10.1007/978-3-031-44198-1_7)” 32nd International Conference on Artificial Neural Networks, Crete, Greece, 2023, pp. 75-86. 
 -	Z. Wang, **C. Huang**, and X. Yao∗, “[Feature Attribution Explanation to Detect Harmful Dataset Shift,](https://ieeexplore.ieee.org/abstract/document/10191221)” 2023 International Joint Conference on Neural Networks (IJCNN), Gold Coast, Australia, Jun. 2023, pp. 1-8.
 -	S. Gui, Q. Zhang, **C. Huang**, and B. Yuan∗, “[Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary Learning and Adversarial Learning,](https://ieeexplore.ieee.org/abstract/document/10191821)” 2023 International Joint Conference on Neural Networks (IJCNN), Gold Coast, Australia, Jun. 2023, pp. 1-9.
@@ -150,7 +150,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 -	**C. Huang**, L. Li, C. He, R. Cheng∗, and X. Yao, “[Operator-Adapted Evolutionary Large-Scale Multiobjective Optimization for Voltage Transformer Ratio Error Estimation,](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_53)” 11th International Conference on Evolutionary Multi-Criterion Optimization, Shenzhen, China, Mar. 2021, pp. 672-683.
 -	H. Tong∗, **C. Huang**, L. L. Minku, and X. Yao∗, “[Surrogate models in evolutionary single-objective optimization: A new taxonomy and experimental study,](https://www.sciencedirect.com/science/article/pii/S0020025521002395?via%3Dihub)” Information Sciences, vol. 562, pp. 414-437, Jul. 2021.
 -	H. Bai∗, D. Lemosse, Y. Aoues, J. Cherfils, and **C. Huang∗**, “[A Probabilistic Approach In Long-Term Fatigue Analysis Of Onshore Wind Turbine Tower,](https://www.scipedia.com/public/Bai_et_al_2021a)” 14th WCCM-ECCOMAS Congress, Jan. 2021, pp. 1-11.
--	**C. Huang**, Y. Li, and X. Yao∗, “[A Survey of Automatic Parameter Tuning Methods for Metaheuristics,](https://ieeexplore.ieee.org/document/8733017/authors#authors)” IEEE Transactions on Evolutionary Computation, vol. 24, no. 2, pp. 201-216, Apr. 2020. (ESI Highly Cited Paper)
+-	**C. Huang**, Y. Li, and X. Yao∗, “[A Survey of Automatic Parameter Tuning Methods for Metaheuristics,](https://ieeexplore.ieee.org/document/8733017/authors#authors)” IEEE Transactions on Evolutionary Computation, vol. 24, no. 2, pp. 201-216, Apr. 2020. (<font color=blue>ESI Highly Cited Paper</font>)
 -	**C. Huang**, Y. Li, and X. Yao∗, “[Online Parameter Tuned SAHiD Algorithm for Capacitated Arc Routing Problems,](https://ieeexplore.ieee.org/document/9185627)” 2020 IEEE Congress on Evolutionary Computation (CEC), Glasgow, UK, Jul. 2020, pp. 1-8.
 -	**C. Huang**, Y. Li, and X. Yao∗, “[Adaptive-SAHiD Algorithm for Capacitated Arc Routing Problems,](https://ieeexplore.ieee.org/document/9002657)” 2019 IEEE Symposium Series on Computational Intelligence (SSCI), Xiamen, China, Dec. 2019, pp. 1668-1675.
 -	H. Tong, S. Zhang, **C. Huang**, and X. Yao∗, “[Algorithm Portfolio for Parameter Tuned Evolutionary Algorithms,](https://ieeexplore.ieee.org/document/9003101)” 2019 IEEE Symposium Series on Computational Intelligence (SSCI), Xiamen, China, Dec. 2019, pp. 1849-1856.
@@ -224,9 +224,9 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 <br/>
 
 # 🏆 Honors and Awards
-- Our paper “A Concept-Based Local Interpretable Model-agnostic Explanation Approach for Deep Neural Networks in Image Classification” achieved the **Best Student Paper Award** in 13th International Conference on Intelligent Information Processing (IIP 2024), 2024.
+- Our paper “A Concept-Based Local Interpretable Model-agnostic Explanation Approach for Deep Neural Networks in Image Classification” achieved the <font color=blue>**Best Student Paper Award**</font> in 13th International Conference on Intelligent Information Processing (IIP 2024), 2024.
 
-- Our paper “An Overview of Artificial Intelligence Ethics” was selected as the **Excellent Science & Technology Academic Paper** by the Shenzhen Association for Science and Technology (深圳市第二届优秀科技学术论文奖), 2022. 
+- Our paper “An Overview of Artificial Intelligence Ethics” was selected as the <font color=blue>**Excellent Science & Technology Academic Paper**</font> by the Shenzhen Association for Science and Technology (深圳市第二届优秀科技学术论文奖), 2022. 
 
 - Scholarship from China Scholarship Council (CSC) to pursue Ph.D. study, 2013-2017.
 
@@ -234,7 +234,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 
 - Outstanding University Graduate of Sichuan Province, 2010.
 
-- Outstanding Undergraduate Graduate Design & Thesis of SWJTU, 2010.
+- Outstanding Undergraduate Graduate Design and Thesis of SWJTU, 2010.
 
 - National Scholarship, 2006 and 2009.
 
@@ -262,7 +262,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 	
 -	Core member of the Artificial Intelligence Education Research Center, Southern University of Science and Technology ([南方科技大学人工智能教育研究中心](https://efuture.sustech.edu.cn/news/detail/744.html?lang=zh-cn)), since October 2023.
 
--	Session Chair for the Neural Networks and Intelligent Algorithms session at the [International Conference on Neuromorphic Computing (ICNC2023)](http://icnc2023.org/), December 2023.
+-	Chair of the Session on "Neural Networks and Intelligent Algorithms" at the [International Conference on Neuromorphic Computing (ICNC2023)](http://icnc2023.org/), December 2023.
 
 -	Secretary Member of the AI Ethics Governance Committee of [Shenzhen Association for Artificial Intelligence (SAAI)](https://saai.net.cn/) (深圳市人工智能学会AI伦理治理专委会秘书委员), since November 2022.
 
