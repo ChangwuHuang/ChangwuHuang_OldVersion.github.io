@@ -258,7 +258,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 <br/>
 
 # 💻 Professional Service
--	Member of the First Medical Artificial Intelligence Ethics Committee of “Chinese Medical Ethics” (《中国医学伦理学》第一届医学人工智能伦理专委会委员), since May 2024.
+-	Member of the First Medical Artificial Intelligence Ethics Committee of “Chinese Medical Ethics” (《中国医学伦理学》第一届[医学人工智能伦理专委会](https://mp.weixin.qq.com/s/fQlfktkta3muEz6MMJaY5Q)委员), since May 2024.
 
 -	Chair of the Session on “Machine Learning”  at 13th IFIP International Conference on Intelligent Information Processing, Shenzhen, May 2024.
 	
