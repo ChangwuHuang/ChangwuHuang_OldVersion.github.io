@@ -181,8 +181,9 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 
 - Joint Project between Huawei Technologies Co., Ltd. and SUSTech, “Basic Theory and Key Technologies for Trustworthy Intelligent Systems” (可信系统基础理论和关键技术), Core Member, 01/2021 - 06/2022.
 
-- Pearl River Talent Program for Guangdong Introducing Innovative and Entrepreneurial Teams, “Reconfigurable Brain-like Intelligent Computing System” (可重构类脑智能计算系统), Member, 09/2018 - 08/2023. 
+- Research on Reliable Digital Microfluidic Biochip Design Methods (可靠性数字微流控生物芯片设计方法研究), Member, 04/2019 - 03/2022.
 
+- Pearl River Talent Program for Guangdong Introducing Innovative and Entrepreneurial Teams, “Reconfigurable Brain-like Intelligent Computing System” (可重构类脑智能计算系统), Member, 09/2018 - 08/2023. 
 
 
 ## Patents
