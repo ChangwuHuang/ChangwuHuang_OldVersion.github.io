@@ -136,6 +136,8 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 
 
 ## Pulication List
+-	Z. Wang, **C. Huang**, and X. Yao, “[Feature Attribution Explanation Based on Multi-Objective Evolutionary Learning,](https://dl.acm.org/doi/10.1145/3638530.3664056)” Proceedings of the Genetic and Evolutionary Computation Conference Companion, Jul. 2024, pp. 61-62.
+-	J. Xu, J. Yang, P. Li, Z. Wang, **C. Huang∗** and X. Yao, “[A Knowledge Guided Multi-Population Evolutionary Algorithm for Dynamic Workflow Scheduling Problem,](https://ieeexplore.ieee.org/abstract/document/10605246)” 2024 IEEE Conference on Artificial Intelligence (CAI), Singapore, 2024, pp. 21-28.
 -	L. Tan, **C. Huang∗**, and X. Yao, “[A Concept-Based Local Interpretable Model-agnostic Explanation Approach for Deep Neural Networks in Image Classification,](https://link.springer.com/chapter/10.1007/978-3-031-57919-6_9)” Intelligent Information Processing XII, pp. 119-133, 2024.
 -	Z. Wang, **C. Huang**, Y. Li, and X. Yao∗, “[Multi-objective Feature Attribution Explanation For Explainable Machine Learning,](https://dl.acm.org/doi/10.1145/3617380)” ACM Transactions on Evolutionary Learning and Optimization, vol. 4, no. 1, pp. 1–32, Feb. 2024.
 -	K. Wu, **C. Huang∗**, and X. Yao∗, “[Confidence Estimation Based on the Explanations of Model’s Predictions,](https://ieeexplore.ieee.org/document/10462812)” 2023 International Conference on Neuromorphic Computing (ICNC), Wuhan, China, 2023, pp. 414-423.
