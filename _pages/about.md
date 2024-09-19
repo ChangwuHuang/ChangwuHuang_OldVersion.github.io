@@ -248,6 +248,8 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 <br/>
 
 # 🧑‍🏫 Invited Talks
+- April 2024, I was invited to deliver lectures on “AI Ethical Risks and Governance” (人工智能伦理风险与治理) and “Ethics and Guidelines in AI Education” (人工智能教育伦理与规范) for the Heyuan City Longchuan County Education Support Project — Artificial Intelligence Education Leadership Enhancement Training for Primary and Secondary School Principals ([“河源市龙川县教育帮扶项目——中小学校长人工智能教育领导力提升培训”](https://efuture.sustech.edu.cn/news/detail/772.html?lang=zh-cn)).
+
 - December 2023, I was invited to participate in the New Generation of Artificial Intelligence and Education expert consultation seminar ([“新一代人工智能与教育”专家咨询研讨会](https://efuture.sustech.edu.cn/news/detail/753.html?lang=zh-cn)), and delivered a keynote talk on the topic of “The Talent View of AI Era: Combining Virtue with Abilities”(AI 时代德才兼备的人才观).
 
 - July 2023, I was invited to give a lecture on “Ethics and Safety in the AI Era” (AI 时代的伦理与安全) at the training program for principals on AI education leadership enhancement in Shenzhen primary and secondary schools ([“深圳市中小学校长人工智能教育领导力提升研训”培训班](https://efuture.sustech.edu.cn/news/detail/741.html?lang=zh-cn)).
