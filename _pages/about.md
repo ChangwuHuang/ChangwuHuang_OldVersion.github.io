@@ -201,6 +201,17 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 
 # 🏫 Experiences
 
+## Work Experience
+- 10/2023 -- Present, Research Associate Professor (Master Supervisor), Department of CSE, SUSTech, Shenzhen, China.
+  - OPtimization And Learning (OPAL) Laboratory, led by Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
+
+- 10/2020 -- 09/2023, Research Assistant Professor (Master Supervisor), Department of CSE, SUSTech, Shenzhen, China.
+    - OPtimization And Learning (OPAL) Laboratory, led by Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
+
+- 03/2018 -- 09/2020, Postdoctoral Researcher, Department of CSE, SUSTech, Shenzhen, China.
+    - Cooperation Supervisor: Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
+
+      
 ## Education Experience
 - 09/2013 -- 02/2018, Ph.D. in Mechanics, [INSA Rouen Normandie](https://www.insa-rouen.fr/), France.
   - Dissertation Title: [Kriging-Assisted Evolution Strategy for Optimization and Application in Material Parameters Identification](https://theses.hal.science/tel-03669789/).
@@ -213,17 +224,6 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 - 09/2006 -- 06/2010, B.S. in Vehicle Engineering, [Southwest Jiaotong University (SWJTU)](https://www.swjtu.edu.cn/), China.
     - Graduated with honor as Outstanding Graduate of Sichuan Province.
     - Recommended for admission to postgraduate study, exempted from the Admission Examination.
-
-
-## Work Experience
-- 10/2023 -- Present, Research Associate Professor (Master Supervisor), Department of CSE, SUSTech, Shenzhen, China.
-  - OPtimization And Learning (OPAL) Laboratory, led by Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
-
-- 10/2020 -- 09/2023, Research Assistant Professor (Master Supervisor), Department of CSE, SUSTech, Shenzhen, China.
-    - OPtimization And Learning (OPAL) Laboratory, led by Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
-
-- 03/2018 -- 09/2020, Postdoctoral Researcher, Department of CSE, SUSTech, Shenzhen, China.
-    - Cooperation Supervisor: Prof. [Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/)
 
 
 <br/>
